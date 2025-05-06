@@ -1,0 +1,1000 @@
+Order Id,Date,Customer ID,Product,Category,Quantity,Price,Revenue,Region,Payment Method
+ORD0057,1/4/2024,C001,T-shirt,Apparel,5,20,100,Chennai,Credit Card
+ORD0428,14/04/2024,C001,Sneakers,Footwear,4,60,240,Delhi,Credit Card
+ORD0823,14/02/2024,C001,Sneakers,Footwear,2,60,120,Bangalore,Cash on Delivery
+ORD0402,14/03/2024,C002,Blender,Home,4,35,140,Delhi,Debit Card
+ORD0037,26/02/2024,C003,Desk Lamp,Home,5,25,125,Chennai,Debit Card
+ORD0304,6/4/2024,C003,Blender,Home,2,35,70,Bangalore,Cash on Delivery
+ORD0590,3/4/2024,C003,Headphones,Electronics,5,50,250,Kolkata,UPI
+ORD0640,3/3/2024,C004,Desk Lamp,Home,5,25,125,Chennai,Debit Card
+ORD0227,9/2/2024,C004,Laptop,Electronics,4,800,3200,Delhi,Debit Card
+ORD0285,16/04/2024,C004,Jeans,Apparel,2,45,90,Mumbai,UPI
+ORD0829,26/02/2024,C004,Jeans,Apparel,1,45,45,Mumbai,Debit Card
+ORD0079,17/02/2024,C005,T-shirt,Apparel,2,20,40,Chennai,Debit Card
+ORD0861,4/4/2024,C005,T-shirt,Apparel,1,20,20,Chennai,Credit Card
+ORD0408,8/1/2024,C005,Sneakers,Footwear,1,60,60,Delhi,Credit Card
+ORD0785,2/2/2024,C005,Coffee Mug,Home,4,10,40,Kolkata,Cash on Delivery
+ORD0807,13/04/2024,C005,Desk Lamp,Home,1,25,25,Kolkata,UPI
+ORD0210,20/03/2024,C006,Blender,Home,4,35,140,Kolkata,Debit Card
+ORD0830,12/2/2024,C006,Phone,Electronics,5,600,3000,Delhi,Credit Card
+ORD0699,14/03/2024,C007,Headphones,Electronics,5,50,250,Chennai,Credit Card
+ORD0924,11/1/2024,C007,Phone,Electronics,3,600,1800,Chennai,UPI
+ORD0131,26/03/2024,C007,Sneakers,Footwear,4,60,240,Kolkata,Debit Card
+ORD0460,1/1/2024,C007,Coffee Mug,Home,1,10,10,Delhi,Debit Card
+ORD0628,16/03/2024,C007,T-shirt,Apparel,1,20,20,Mumbai,UPI
+ORD0804,24/02/2024,C007,Blender,Home,5,35,175,Kolkata,Credit Card
+ORD0129,1/4/2024,C008,Desk Lamp,Home,4,25,100,Bangalore,Debit Card
+ORD0303,26/03/2024,C008,Coffee Mug,Home,4,10,40,Bangalore,Cash on Delivery
+ORD0941,6/3/2024,C008,Headphones,Electronics,3,50,150,Delhi,Cash on Delivery
+ORD0083,4/4/2024,C009,Headphones,Electronics,2,50,100,Delhi,Debit Card
+ORD0976,22/04/2024,C009,Sneakers,Footwear,2,60,120,Delhi,Debit Card
+ORD0948,12/2/2024,C011,Blender,Home,4,35,140,Chennai,Debit Card
+ORD0719,1/3/2024,C011,Blender,Home,1,35,35,Mumbai,Debit Card
+ORD0232,28/02/2024,C012,Laptop,Electronics,2,800,1600,Bangalore,Cash on Delivery
+ORD0556,16/03/2024,C012,Jeans,Apparel,5,45,225,Mumbai,Debit Card
+ORD0798,9/4/2024,C012,Coffee Mug,Home,3,10,30,Delhi,UPI
+ORD0918,16/03/2024,C012,Sneakers,Footwear,1,60,60,Mumbai,Debit Card
+ORD0456,16/02/2024,C013,Sneakers,Footwear,5,60,300,Chennai,Debit Card
+ORD0155,24/04/2024,C013,Sneakers,Footwear,5,60,300,Bangalore,Debit Card
+ORD0956,1/2/2024,C013,Laptop,Electronics,2,800,1600,Kolkata,UPI
+ORD0282,6/3/2024,C016,Laptop,Electronics,5,800,4000,Chennai,Debit Card
+ORD0061,26/03/2024,C016,Headphones,Electronics,1,50,50,Kolkata,UPI
+ORD0388,11/4/2024,C016,Laptop,Electronics,2,800,1600,Bangalore,Debit Card
+ORD0990,20/03/2024,C016,Desk Lamp,Home,4,25,100,Mumbai,UPI
+ORD0077,25/03/2024,C017,Blender,Home,4,35,140,Mumbai,UPI
+ORD0317,12/4/2024,C017,Coffee Mug,Home,1,10,10,Kolkata,UPI
+ORD0877,3/2/2024,C017,Jeans,Apparel,4,45,180,Mumbai,UPI
+ORD0987,22/02/2024,C017,Desk Lamp,Home,3,25,75,Bangalore,Credit Card
+ORD0012,25/04/2024,C018,Phone,Electronics,2,600,1200,Mumbai,UPI
+ORD0534,18/04/2024,C018,T-shirt,Apparel,2,20,40,Kolkata,UPI
+ORD0675,9/3/2024,C018,Blender,Home,4,35,140,Kolkata,Credit Card
+ORD0683,3/2/2024,C018,Phone,Electronics,1,600,600,Kolkata,Cash on Delivery
+ORD0060,31/03/2024,C019,Laptop,Electronics,2,800,1600,Mumbai,Debit Card
+ORD0187,6/1/2024,C019,Coffee Mug,Home,1,10,10,Bangalore,Debit Card
+ORD0245,1/4/2024,C019,Laptop,Electronics,2,800,1600,Kolkata,Debit Card
+ORD0557,22/02/2024,C019,Phone,Electronics,5,600,3000,Mumbai,Credit Card
+ORD0306,8/2/2024,C020,Coffee Mug,Home,3,10,30,Chennai,Cash on Delivery
+ORD0426,19/03/2024,C020,Coffee Mug,Home,5,10,50,Chennai,Credit Card
+ORD0782,16/04/2024,C020,Coffee Mug,Home,3,10,30,Chennai,Credit Card
+ORD0355,10/4/2024,C020,T-shirt,Apparel,2,20,40,Mumbai,UPI
+ORD0512,9/2/2024,C021,Desk Lamp,Home,5,25,125,Kolkata,Cash on Delivery
+ORD0445,17/01/2024,C022,Laptop,Electronics,2,800,1600,Delhi,Debit Card
+ORD0777,28/03/2024,C022,Phone,Electronics,1,600,600,Delhi,UPI
+ORD0390,19/01/2024,C023,Coffee Mug,Home,3,10,30,Bangalore,Cash on Delivery
+ORD0591,30/04/2024,C023,Laptop,Electronics,2,800,1600,Delhi,UPI
+ORD0717,7/4/2024,C023,Jeans,Apparel,1,45,45,Delhi,UPI
+ORD0100,5/2/2024,C024,Laptop,Electronics,1,800,800,Chennai,Cash on Delivery
+ORD0062,6/1/2024,C024,Sneakers,Footwear,1,60,60,Kolkata,Debit Card
+ORD0854,5/2/2024,C024,Laptop,Electronics,5,800,4000,Chennai,Credit Card
+ORD0513,11/1/2024,C025,Laptop,Electronics,4,800,3200,Chennai,Credit Card
+ORD0881,6/4/2024,C025,Sneakers,Footwear,5,60,300,Mumbai,Debit Card
+ORD0882,20/02/2024,C025,Phone,Electronics,1,600,600,Delhi,Credit Card
+ORD0751,7/4/2024,C026,Coffee Mug,Home,3,10,30,Delhi,UPI
+ORD0889,22/02/2024,C026,Coffee Mug,Home,4,10,40,Delhi,Cash on Delivery
+ORD0183,25/02/2024,C027,Sneakers,Footwear,5,60,300,Bangalore,Debit Card
+ORD0247,12/3/2024,C027,Coffee Mug,Home,1,10,10,Bangalore,Cash on Delivery
+ORD0741,29/04/2024,C027,Jeans,Apparel,4,45,180,Bangalore,Cash on Delivery
+ORD0795,21/04/2024,C027,Coffee Mug,Home,1,10,10,Bangalore,UPI
+ORD0761,14/01/2024,C028,Phone,Electronics,1,600,600,Chennai,UPI
+ORD0298,25/03/2024,C028,Desk Lamp,Home,1,25,25,Mumbai,UPI
+ORD0009,31/03/2024,C029,Phone,Electronics,1,600,600,Chennai,Debit Card
+ORD0172,24/01/2024,C029,Laptop,Electronics,3,800,2400,Delhi,Debit Card
+ORD0736,7/3/2024,C029,Coffee Mug,Home,1,10,10,Delhi,Debit Card
+ORD0760,4/4/2024,C029,Phone,Electronics,1,600,600,Bangalore,Debit Card
+ORD0318,6/1/2024,C030,Phone,Electronics,2,600,1200,Delhi,UPI
+ORD0668,11/3/2024,C030,Coffee Mug,Home,4,10,40,Bangalore,Cash on Delivery
+ORD0063,13/03/2024,C031,Phone,Electronics,2,600,1200,Delhi,Debit Card
+ORD0608,13/04/2024,C031,Sneakers,Footwear,5,60,300,Mumbai,Debit Card
+ORD0900,25/03/2024,C031,Headphones,Electronics,1,50,50,Kolkata,Debit Card
+ORD0950,23/02/2024,C031,Sneakers,Footwear,1,60,60,Kolkata,Debit Card
+ORD0844,23/02/2024,C032,Blender,Home,5,35,175,Kolkata,Credit Card
+ORD0776,13/03/2024,C033,Phone,Electronics,5,600,3000,Chennai,Debit Card
+ORD0044,26/04/2024,C034,Coffee Mug,Home,1,10,10,Kolkata,Cash on Delivery
+ORD0837,14/02/2024,C034,Laptop,Electronics,3,800,2400,Chennai,UPI
+ORD0283,21/03/2024,C034,Sneakers,Footwear,5,60,300,Mumbai,UPI
+ORD0415,5/3/2024,C034,Phone,Electronics,3,600,1800,Mumbai,Cash on Delivery
+ORD0757,27/03/2024,C034,Desk Lamp,Home,1,25,25,Delhi,UPI
+ORD0025,1/4/2024,C035,Sneakers,Footwear,2,60,120,Delhi,UPI
+ORD0117,12/1/2024,C035,Blender,Home,3,35,105,Bangalore,Cash on Delivery
+ORD0267,19/04/2024,C035,T-shirt,Apparel,1,20,20,Mumbai,UPI
+ORD0525,19/04/2024,C035,Coffee Mug,Home,4,10,40,Delhi,Cash on Delivery
+ORD0765,25/04/2024,C036,Headphones,Electronics,4,50,200,Chennai,UPI
+ORD0246,28/01/2024,C036,Phone,Electronics,2,600,1200,Delhi,UPI
+ORD0261,6/1/2024,C036,T-shirt,Apparel,1,20,20,Kolkata,Debit Card
+ORD0181,2/4/2024,C037,Coffee Mug,Home,4,10,40,Chennai,Debit Card
+ORD0409,9/3/2024,C037,Phone,Electronics,2,600,1200,Mumbai,UPI
+ORD0509,21/04/2024,C037,Desk Lamp,Home,5,25,125,Kolkata,Credit Card
+ORD0395,29/03/2024,C038,Coffee Mug,Home,5,10,50,Bangalore,Cash on Delivery
+ORD0581,14/02/2024,C038,Coffee Mug,Home,4,10,40,Kolkata,Credit Card
+ORD0609,1/3/2024,C038,Phone,Electronics,2,600,1200,Mumbai,Credit Card
+ORD0240,12/2/2024,C039,Laptop,Electronics,4,800,3200,Chennai,Credit Card
+ORD0604,8/2/2024,C040,Sneakers,Footwear,4,60,240,Mumbai,Cash on Delivery
+ORD0792,13/01/2024,C040,Laptop,Electronics,2,800,1600,Kolkata,UPI
+ORD0925,14/04/2024,C040,Coffee Mug,Home,2,10,20,Bangalore,Credit Card
+ORD0098,18/04/2024,C041,Phone,Electronics,5,600,3000,Bangalore,UPI
+ORD0714,18/03/2024,C041,Desk Lamp,Home,3,25,75,Chennai,Credit Card
+ORD0252,3/1/2024,C041,Blender,Home,4,35,140,Bangalore,Cash on Delivery
+ORD0463,1/3/2024,C041,Coffee Mug,Home,1,10,10,Delhi,Debit Card
+ORD0488,20/01/2024,C041,Phone,Electronics,2,600,1200,Kolkata,UPI
+ORD0503,20/03/2024,C041,Phone,Electronics,5,600,3000,Mumbai,UPI
+ORD0531,2/3/2024,C041,Coffee Mug,Home,1,10,10,Kolkata,Credit Card
+ORD0284,27/02/2024,C042,Phone,Electronics,5,600,3000,Delhi,Debit Card
+ORD0970,17/03/2024,C042,T-shirt,Apparel,5,20,100,Mumbai,Credit Card
+ORD0033,26/02/2024,C043,Coffee Mug,Home,4,10,40,Kolkata,Cash on Delivery
+ORD0898,30/01/2024,C044,Desk Lamp,Home,1,25,25,Chennai,Credit Card
+ORD0571,20/03/2024,C044,Desk Lamp,Home,5,25,125,Kolkata,Debit Card
+ORD0700,3/3/2024,C044,Jeans,Apparel,2,45,90,Mumbai,UPI
+ORD0703,28/04/2024,C044,Sneakers,Footwear,2,60,120,Delhi,UPI
+ORD0754,4/4/2024,C044,T-shirt,Apparel,1,20,20,Mumbai,Credit Card
+ORD0677,3/3/2024,C045,Laptop,Electronics,2,800,1600,Chennai,Debit Card
+ORD0238,20/03/2024,C045,Blender,Home,4,35,140,Kolkata,Credit Card
+ORD0732,4/3/2024,C045,Jeans,Apparel,5,45,225,Kolkata,Debit Card
+ORD0880,17/02/2024,C045,Phone,Electronics,1,600,600,Kolkata,UPI
+ORD0142,12/3/2024,C046,Phone,Electronics,3,600,1800,Delhi,Cash on Delivery
+ORD0343,19/02/2024,C046,Coffee Mug,Home,5,10,50,Bangalore,Cash on Delivery
+ORD0441,21/03/2024,C048,T-shirt,Apparel,5,20,100,Chennai,Credit Card
+ORD0727,21/03/2024,C048,Headphones,Electronics,3,50,150,Bangalore,Credit Card
+ORD0812,12/4/2024,C048,Phone,Electronics,3,600,1800,Mumbai,UPI
+ORD0011,5/3/2024,C049,Phone,Electronics,1,600,600,Delhi,Debit Card
+ORD0468,4/1/2024,C049,Jeans,Apparel,4,45,180,Mumbai,Debit Card
+ORD0616,25/02/2024,C049,Headphones,Electronics,4,50,200,Delhi,Cash on Delivery
+ORD0064,18/04/2024,C050,Phone,Electronics,5,600,3000,Delhi,Cash on Delivery
+ORD0492,1/1/2024,C050,Headphones,Electronics,4,50,200,Chennai,UPI
+ORD0688,29/02/2024,C050,Laptop,Electronics,2,800,1600,Mumbai,UPI
+ORD0952,21/03/2024,C050,Headphones,Electronics,2,50,100,Kolkata,Credit Card
+ORD0975,3/4/2024,C050,Phone,Electronics,1,600,600,Mumbai,Debit Card
+ORD0487,14/04/2024,C051,Phone,Electronics,1,600,600,Delhi,UPI
+ORD0981,24/01/2024,C052,Headphones,Electronics,2,50,100,Chennai,Debit Card
+ORD0370,17/02/2024,C052,Laptop,Electronics,2,800,1600,Delhi,Cash on Delivery
+ORD0427,6/3/2024,C052,T-shirt,Apparel,3,20,60,Delhi,UPI
+ORD0519,19/01/2024,C052,Laptop,Electronics,2,800,1600,Mumbai,UPI
+ORD0835,23/03/2024,C052,Headphones,Electronics,2,50,100,Delhi,Debit Card
+ORD0964,1/2/2024,C053,Blender,Home,1,35,35,Chennai,UPI
+ORD0809,23/03/2024,C053,Jeans,Apparel,2,45,90,Kolkata,UPI
+ORD0938,19/04/2024,C053,Laptop,Electronics,2,800,1600,Delhi,UPI
+ORD0045,12/1/2024,C054,Phone,Electronics,2,600,1200,Delhi,UPI
+ORD0335,18/04/2024,C054,Laptop,Electronics,5,800,4000,Chennai,Debit Card
+ORD0331,18/02/2024,C054,Sneakers,Footwear,4,60,240,Mumbai,Cash on Delivery
+ORD0516,25/03/2024,C055,T-shirt,Apparel,1,20,20,Kolkata,Debit Card
+ORD0679,20/02/2024,C056,Coffee Mug,Home,2,10,20,Chennai,Credit Card
+ORD0195,25/04/2024,C056,Desk Lamp,Home,2,25,50,Mumbai,Debit Card
+ORD0389,5/4/2024,C056,Phone,Electronics,5,600,3000,Mumbai,UPI
+ORD0575,4/3/2024,C056,Phone,Electronics,1,600,600,Kolkata,Debit Card
+ORD0134,25/03/2024,C057,Sneakers,Footwear,4,60,240,Delhi,UPI
+ORD0564,17/02/2024,C057,Phone,Electronics,4,600,2400,Chennai,UPI
+ORD0747,19/02/2024,C057,Blender,Home,4,35,140,Chennai,Cash on Delivery
+ORD0645,6/3/2024,C057,Sneakers,Footwear,1,60,60,Delhi,Debit Card
+ORD0702,10/4/2024,C057,Phone,Electronics,3,600,1800,Mumbai,UPI
+ORD0069,6/4/2024,C058,Blender,Home,3,35,105,Bangalore,Cash on Delivery
+ORD0625,4/2/2024,C058,Desk Lamp,Home,2,25,50,Chennai,Debit Card
+ORD0214,27/04/2024,C058,Headphones,Electronics,2,50,100,Delhi,UPI
+ORD0215,25/01/2024,C058,Blender,Home,2,35,70,Kolkata,UPI
+ORD0501,29/04/2024,C058,Desk Lamp,Home,1,25,25,Kolkata,UPI
+ORD0869,11/1/2024,C058,Coffee Mug,Home,5,10,50,Bangalore,Cash on Delivery
+ORD0697,15/02/2024,C059,Jeans,Apparel,5,45,225,Mumbai,Credit Card
+ORD0922,5/3/2024,C059,Sneakers,Footwear,5,60,300,Mumbai,Cash on Delivery
+ORD0979,9/3/2024,C059,Coffee Mug,Home,4,10,40,Bangalore,UPI
+ORD0136,17/02/2024,C060,Headphones,Electronics,2,50,100,Mumbai,UPI
+ORD0920,24/03/2024,C060,Coffee Mug,Home,4,10,40,Mumbai,UPI
+ORD0404,17/03/2024,C061,Laptop,Electronics,4,800,3200,Chennai,Debit Card
+ORD0336,6/3/2024,C061,Phone,Electronics,1,600,600,Mumbai,Debit Card
+ORD0810,10/3/2024,C061,Headphones,Electronics,4,50,200,Delhi,Debit Card
+ORD0122,4/4/2024,C062,Blender,Home,5,35,175,Delhi,Cash on Delivery
+ORD0454,27/03/2024,C062,Coffee Mug,Home,4,10,40,Bangalore,Credit Card
+ORD0588,7/4/2024,C063,T-shirt,Apparel,1,20,20,Chennai,Credit Card
+ORD0230,25/03/2024,C064,Headphones,Electronics,1,50,50,Mumbai,UPI
+ORD0258,7/3/2024,C064,Coffee Mug,Home,1,10,10,Kolkata,Credit Card
+ORD0291,26/02/2024,C064,Headphones,Electronics,4,50,200,Kolkata,UPI
+ORD0752,11/3/2024,C064,Jeans,Apparel,5,45,225,Kolkata,Debit Card
+ORD0153,26/03/2024,C065,Coffee Mug,Home,1,10,10,Kolkata,Credit Card
+ORD0228,1/1/2024,C065,Jeans,Apparel,1,45,45,Delhi,UPI
+ORD0627,28/03/2024,C065,Headphones,Electronics,1,50,50,Kolkata,Debit Card
+ORD0935,8/3/2024,C065,Laptop,Electronics,5,800,4000,Kolkata,UPI
+ORD0219,8/1/2024,C066,Headphones,Electronics,4,50,200,Chennai,Cash on Delivery
+ORD0430,4/1/2024,C066,Laptop,Electronics,2,800,1600,Delhi,UPI
+ORD0691,15/01/2024,C066,T-shirt,Apparel,1,20,20,Kolkata,UPI
+ORD0367,13/03/2024,C067,T-shirt,Apparel,5,20,100,Kolkata,Debit Card
+ORD0447,27/02/2024,C067,Blender,Home,4,35,140,Bangalore,Credit Card
+ORD0116,15/04/2024,C068,Headphones,Electronics,1,50,50,Kolkata,UPI
+ORD0686,24/04/2024,C068,Blender,Home,4,35,140,Bangalore,Credit Card
+ORD0010,27/03/2024,C069,Sneakers,Footwear,1,60,60,Delhi,UPI
+ORD0048,12/2/2024,C069,Headphones,Electronics,2,50,100,Chennai,UPI
+ORD0708,29/01/2024,C069,Headphones,Electronics,3,50,150,Chennai,UPI
+ORD0302,13/03/2024,C069,Headphones,Electronics,3,50,150,Kolkata,Debit Card
+ORD0070,25/02/2024,C070,Coffee Mug,Home,5,10,50,Bangalore,Cash on Delivery
+ORD0372,12/3/2024,C070,Headphones,Electronics,2,50,100,Delhi,Debit Card
+ORD0375,5/4/2024,C070,Headphones,Electronics,4,50,200,Bangalore,Credit Card
+ORD0459,29/03/2024,C070,Jeans,Apparel,1,45,45,Kolkata,Debit Card
+ORD0977,11/4/2024,C070,Headphones,Electronics,5,50,250,Mumbai,Debit Card
+ORD0058,21/02/2024,C071,Sneakers,Footwear,3,60,180,Mumbai,Cash on Delivery
+ORD0243,8/4/2024,C071,Jeans,Apparel,2,45,90,Kolkata,UPI
+ORD0539,22/04/2024,C071,Headphones,Electronics,3,50,150,Kolkata,Debit Card
+ORD0596,21/01/2024,C071,Coffee Mug,Home,5,10,50,Bangalore,Cash on Delivery
+ORD0706,23/03/2024,C071,Blender,Home,4,35,140,Bangalore,UPI
+ORD0855,24/03/2024,C071,Coffee Mug,Home,2,10,20,Bangalore,Cash on Delivery
+ORD0166,2/3/2024,C072,Sneakers,Footwear,2,60,120,Kolkata,Debit Card
+ORD0424,8/2/2024,C072,Jeans,Apparel,1,45,45,Mumbai,Debit Card
+ORD0649,30/03/2024,C072,Laptop,Electronics,1,800,800,Mumbai,Cash on Delivery
+ORD0157,10/1/2024,C073,Phone,Electronics,2,600,1200,Chennai,Cash on Delivery
+ORD0474,26/02/2024,C073,Desk Lamp,Home,2,25,50,Chennai,Credit Card
+ORD0443,13/02/2024,C073,Phone,Electronics,5,600,3000,Kolkata,UPI
+ORD0905,29/03/2024,C073,Desk Lamp,Home,1,25,25,Mumbai,Credit Card
+ORD0955,26/02/2024,C073,Coffee Mug,Home,3,10,30,Kolkata,Debit Card
+ORD0337,23/04/2024,C074,Headphones,Electronics,1,50,50,Mumbai,UPI
+ORD0342,31/03/2024,C074,Coffee Mug,Home,3,10,30,Delhi,Cash on Delivery
+ORD0413,10/4/2024,C074,Desk Lamp,Home,5,25,125,Bangalore,Debit Card
+ORD0933,29/03/2024,C074,Laptop,Electronics,4,800,3200,Kolkata,Debit Card
+ORD0154,16/03/2024,C075,Jeans,Apparel,3,45,135,Delhi,Credit Card
+ORD0186,1/4/2024,C076,Sneakers,Footwear,1,60,60,Kolkata,Debit Card
+ORD0315,17/04/2024,C076,Jeans,Apparel,2,45,90,Chennai,Debit Card
+ORD0774,19/04/2024,C076,Desk Lamp,Home,5,25,125,Chennai,Debit Card
+ORD0266,24/04/2024,C077,Headphones,Electronics,2,50,100,Mumbai,UPI
+ORD0537,13/03/2024,C078,Coffee Mug,Home,5,10,50,Mumbai,Credit Card
+ORD0868,27/03/2024,C078,Blender,Home,1,35,35,Delhi,UPI
+ORD0662,2/4/2024,C079,Phone,Electronics,5,600,3000,Kolkata,UPI
+ORD0978,2/4/2024,C079,Phone,Electronics,4,600,2400,Delhi,Cash on Delivery
+ORD0174,4/3/2024,C080,Desk Lamp,Home,4,25,100,Chennai,Credit Card
+ORD0548,12/2/2024,C080,T-shirt,Apparel,3,20,60,Bangalore,Cash on Delivery
+ORD0834,17/04/2024,C080,Jeans,Apparel,2,45,90,Bangalore,Cash on Delivery
+ORD0429,15/04/2024,C081,Headphones,Electronics,3,50,150,Delhi,UPI
+ORD0953,18/03/2024,C081,Sneakers,Footwear,5,60,300,Mumbai,UPI
+ORD0986,30/01/2024,C081,Desk Lamp,Home,4,25,100,Mumbai,Credit Card
+ORD0094,18/03/2024,C082,T-shirt,Apparel,1,20,20,Kolkata,UPI
+ORD0651,18/01/2024,C082,Phone,Electronics,3,600,1800,Chennai,UPI
+ORD0418,18/01/2024,C082,T-shirt,Apparel,2,20,40,Kolkata,UPI
+ORD0435,8/2/2024,C082,Headphones,Electronics,4,50,200,Kolkata,Cash on Delivery
+ORD0647,2/4/2024,C082,Blender,Home,1,35,35,Mumbai,Debit Card
+ORD0888,18/03/2024,C082,Blender,Home,3,35,105,Mumbai,UPI
+ORD0102,12/1/2024,C083,Headphones,Electronics,5,50,250,Bangalore,Credit Card
+ORD0704,20/04/2024,C083,Blender,Home,5,35,175,Delhi,Debit Card
+ORD0883,15/03/2024,C084,Phone,Electronics,1,600,600,Mumbai,UPI
+ORD0894,12/3/2024,C086,Desk Lamp,Home,3,25,75,Chennai,UPI
+ORD0815,12/4/2024,C086,Headphones,Electronics,3,50,150,Delhi,Debit Card
+ORD0170,20/03/2024,C087,Phone,Electronics,5,600,3000,Mumbai,UPI
+ORD0275,23/01/2024,C087,T-shirt,Apparel,4,20,80,Chennai,Cash on Delivery
+ORD0561,22/04/2024,C087,Laptop,Electronics,2,800,1600,Chennai,UPI
+ORD0504,4/4/2024,C087,Phone,Electronics,2,600,1200,Bangalore,Cash on Delivery
+ORD0738,4/4/2024,C087,Desk Lamp,Home,1,25,25,Delhi,Debit Card
+ORD0018,3/3/2024,C088,Headphones,Electronics,4,50,200,Mumbai,Cash on Delivery
+ORD0665,22/04/2024,C088,Phone,Electronics,2,600,1200,Delhi,UPI
+ORD0762,31/03/2024,C088,Phone,Electronics,3,600,1800,Bangalore,UPI
+ORD0433,17/04/2024,C089,Blender,Home,5,35,175,Chennai,Credit Card
+ORD0660,5/4/2024,C089,Phone,Electronics,5,600,3000,Kolkata,Debit Card
+ORD0723,27/01/2024,C089,Jeans,Apparel,2,45,90,Kolkata,UPI
+ORD0846,22/03/2024,C090,Desk Lamp,Home,5,25,125,Chennai,Debit Card
+ORD0632,31/03/2024,C090,Desk Lamp,Home,2,25,50,Mumbai,Debit Card
+ORD0914,17/02/2024,C090,Blender,Home,3,35,105,Mumbai,Cash on Delivery
+ORD0340,9/1/2024,C091,Headphones,Electronics,1,50,50,Chennai,Cash on Delivery
+ORD0264,8/4/2024,C091,Blender,Home,5,35,175,Delhi,Credit Card
+ORD0853,14/04/2024,C091,Desk Lamp,Home,1,25,25,Bangalore,UPI
+ORD0937,18/03/2024,C091,Sneakers,Footwear,2,60,120,Mumbai,Debit Card
+ORD0412,10/4/2024,C092,Jeans,Apparel,2,45,90,Delhi,Cash on Delivery
+ORD0595,6/4/2024,C092,Desk Lamp,Home,1,25,25,Delhi,UPI
+ORD0705,8/4/2024,C092,Headphones,Electronics,4,50,200,Delhi,Cash on Delivery
+ORD0909,25/01/2024,C092,Phone,Electronics,3,600,1800,Bangalore,Cash on Delivery
+ORD0156,8/4/2024,C093,Headphones,Electronics,3,50,150,Bangalore,Cash on Delivery
+ORD0621,15/03/2024,C093,Desk Lamp,Home,4,25,100,Chennai,UPI
+ORD0489,1/4/2024,C093,Phone,Electronics,4,600,2400,Bangalore,UPI
+ORD0680,23/03/2024,C093,Laptop,Electronics,5,800,4000,Mumbai,UPI
+ORD0858,6/1/2024,C093,Sneakers,Footwear,4,60,240,Bangalore,Credit Card
+ORD0907,17/04/2024,C093,Coffee Mug,Home,5,10,50,Bangalore,Debit Card
+ORD0999,13/03/2024,C094,Desk Lamp,Home,4,25,100,Chennai,Cash on Delivery
+ORD0465,6/4/2024,C094,Desk Lamp,Home,1,25,25,Bangalore,Debit Card
+ORD0753,8/4/2024,C094,Phone,Electronics,2,600,1200,Kolkata,Cash on Delivery
+ORD0763,4/4/2024,C094,Headphones,Electronics,1,50,50,Bangalore,UPI
+ORD0031,9/1/2024,C095,Desk Lamp,Home,2,25,50,Chennai,Cash on Delivery
+ORD0270,9/1/2024,C095,Desk Lamp,Home,2,25,50,Delhi,UPI
+ORD0271,12/2/2024,C095,Laptop,Electronics,4,800,3200,Bangalore,Credit Card
+ORD0145,27/01/2024,C096,Jeans,Apparel,2,45,90,Mumbai,UPI
+ORD0926,5/2/2024,C097,Blender,Home,5,35,175,Chennai,Credit Card
+ORD0610,10/4/2024,C097,Phone,Electronics,1,600,600,Mumbai,UPI
+ORD0682,2/3/2024,C097,Coffee Mug,Home,2,10,20,Kolkata,Debit Card
+ORD0739,5/4/2024,C097,Blender,Home,3,35,105,Bangalore,Cash on Delivery
+ORD0831,18/03/2024,C097,T-shirt,Apparel,1,20,20,Kolkata,Debit Card
+ORD0140,20/04/2024,C098,Desk Lamp,Home,1,25,25,Bangalore,Debit Card
+ORD0168,27/04/2024,C098,Laptop,Electronics,5,800,4000,Kolkata,Credit Card
+ORD0067,26/04/2024,C098,Coffee Mug,Home,1,10,10,Chennai,Credit Card
+ORD0923,23/04/2024,C098,Headphones,Electronics,3,50,150,Bangalore,Cash on Delivery
+ORD0995,28/04/2024,C098,Jeans,Apparel,3,45,135,Mumbai,Cash on Delivery
+ORD0190,3/3/2024,C099,Blender,Home,2,35,70,Kolkata,Credit Card
+ORD0042,22/04/2024,C099,T-shirt,Apparel,2,20,40,Chennai,Debit Card
+ORD0664,25/03/2024,C099,Sneakers,Footwear,3,60,180,Mumbai,Debit Card
+ORD0886,27/04/2024,C099,Laptop,Electronics,1,800,800,Bangalore,Cash on Delivery
+ORD0912,27/04/2024,C100,Desk Lamp,Home,2,25,50,Chennai,Credit Card
+ORD0783,11/4/2024,C100,Blender,Home,1,35,35,Bangalore,Credit Card
+ORD0490,13/04/2024,C101,Coffee Mug,Home,1,10,10,Bangalore,UPI
+ORD0239,13/03/2024,C102,T-shirt,Apparel,5,20,100,Mumbai,Credit Card
+ORD0160,23/04/2024,C102,Blender,Home,5,35,175,Chennai,Cash on Delivery
+ORD0450,18/01/2024,C102,Sneakers,Footwear,2,60,120,Kolkata,UPI
+ORD0984,14/01/2024,C102,Coffee Mug,Home,3,10,30,Delhi,Cash on Delivery
+ORD0359,5/4/2024,C103,T-shirt,Apparel,2,20,40,Delhi,Debit Card
+ORD0387,10/4/2024,C103,Phone,Electronics,5,600,3000,Kolkata,Debit Card
+ORD0573,27/03/2024,C103,T-shirt,Apparel,1,20,20,Kolkata,UPI
+ORD0906,14/04/2024,C103,Sneakers,Footwear,3,60,180,Delhi,Credit Card
+ORD0650,10/1/2024,C104,Blender,Home,3,35,105,Chennai,Cash on Delivery
+ORD0721,9/3/2024,C104,Headphones,Electronics,1,50,50,Delhi,UPI
+ORD0842,13/02/2024,C104,Desk Lamp,Home,4,25,100,Kolkata,Cash on Delivery
+ORD0939,12/4/2024,C104,Blender,Home,1,35,35,Bangalore,UPI
+ORD0378,20/02/2024,C105,Headphones,Electronics,3,50,150,Chennai,UPI
+ORD0874,11/3/2024,C105,Blender,Home,5,35,175,Chennai,Cash on Delivery
+ORD0615,24/03/2024,C105,Coffee Mug,Home,2,10,20,Delhi,UPI
+ORD0687,22/04/2024,C105,Laptop,Electronics,3,800,2400,Delhi,Cash on Delivery
+ORD0867,15/04/2024,C105,Phone,Electronics,1,600,600,Bangalore,Debit Card
+ORD0431,4/1/2024,C106,Blender,Home,1,35,35,Delhi,UPI
+ORD0641,2/3/2024,C106,Blender,Home,4,35,140,Bangalore,Credit Card
+ORD0851,21/04/2024,C106,Sneakers,Footwear,2,60,120,Mumbai,UPI
+ORD0871,7/2/2024,C106,Headphones,Electronics,4,50,200,Delhi,UPI
+ORD0927,8/4/2024,C107,Blender,Home,2,35,70,Chennai,Cash on Delivery
+ORD0613,30/04/2024,C107,Coffee Mug,Home,5,10,50,Bangalore,Credit Card
+ORD0363,22/02/2024,C109,Headphones,Electronics,3,50,150,Chennai,Credit Card
+ORD0139,3/1/2024,C110,Sneakers,Footwear,2,60,120,Bangalore,Credit Card
+ORD0231,9/4/2024,C110,Phone,Electronics,4,600,2400,Bangalore,Cash on Delivery
+ORD0002,29/01/2024,C110,Jeans,Apparel,4,45,180,Chennai,Credit Card
+ORD0540,16/04/2024,C110,Blender,Home,2,35,70,Mumbai,UPI
+ORD0558,13/04/2024,C110,Jeans,Apparel,1,45,45,Kolkata,Debit Card
+ORD0960,15/04/2024,C110,Headphones,Electronics,3,50,150,Bangalore,Cash on Delivery
+ORD0030,27/04/2024,C111,Blender,Home,4,35,140,Bangalore,Credit Card
+ORD0105,26/02/2024,C111,Headphones,Electronics,3,50,150,Kolkata,Cash on Delivery
+ORD0288,2/1/2024,C111,Laptop,Electronics,3,800,2400,Chennai,Cash on Delivery
+ORD0392,2/1/2024,C111,Headphones,Electronics,2,50,100,Delhi,UPI
+ORD0536,6/4/2024,C111,Sneakers,Footwear,2,60,120,Kolkata,UPI
+ORD0961,22/02/2024,C111,Headphones,Electronics,2,50,100,Mumbai,UPI
+ORD0414,30/03/2024,C112,Coffee Mug,Home,3,10,30,Bangalore,Cash on Delivery
+ORD0959,14/04/2024,C112,T-shirt,Apparel,4,20,80,Delhi,Debit Card
+ORD0158,13/01/2024,C113,Desk Lamp,Home,1,25,25,Chennai,UPI
+ORD0444,12/4/2024,C113,Laptop,Electronics,1,800,800,Delhi,Cash on Delivery
+ORD0322,8/4/2024,C114,T-shirt,Apparel,1,20,20,Delhi,UPI
+ORD0639,3/1/2024,C114,Jeans,Apparel,2,45,90,Kolkata,Debit Card
+ORD0796,17/04/2024,C114,Blender,Home,2,35,70,Delhi,Cash on Delivery
+ORD0797,27/01/2024,C114,Headphones,Electronics,3,50,150,Bangalore,Credit Card
+ORD0323,23/01/2024,C115,Headphones,Electronics,5,50,250,Bangalore,Credit Card
+ORD0348,20/03/2024,C115,T-shirt,Apparel,4,20,80,Kolkata,Cash on Delivery
+ORD0015,15/01/2024,C116,Phone,Electronics,3,600,1800,Kolkata,Credit Card
+ORD0090,29/02/2024,C116,Headphones,Electronics,4,50,200,Mumbai,Credit Card
+ORD0376,29/04/2024,C116,Coffee Mug,Home,1,10,10,Delhi,Cash on Delivery
+ORD0634,27/04/2024,C116,Coffee Mug,Home,1,10,10,Bangalore,Credit Card
+ORD0182,16/03/2024,C117,Laptop,Electronics,5,800,4000,Mumbai,Credit Card
+ORD0448,15/04/2024,C117,Headphones,Electronics,1,50,50,Delhi,UPI
+ORD0562,28/03/2024,C117,Headphones,Electronics,2,50,100,Delhi,Debit Card
+ORD0666,18/04/2024,C117,Desk Lamp,Home,2,25,50,Bangalore,UPI
+ORD0734,14/03/2024,C117,Laptop,Electronics,5,800,4000,Delhi,UPI
+ORD0119,4/1/2024,C118,Coffee Mug,Home,2,10,20,Delhi,Debit Card
+ORD0192,16/04/2024,C118,T-shirt,Apparel,2,20,40,Mumbai,Cash on Delivery
+ORD0202,18/01/2024,C118,Desk Lamp,Home,3,25,75,Chennai,UPI
+ORD0407,18/04/2024,C118,Jeans,Apparel,4,45,180,Mumbai,UPI
+ORD0689,4/1/2024,C118,Jeans,Apparel,4,45,180,Delhi,UPI
+ORD0236,1/1/2024,C119,Jeans,Apparel,5,45,225,Kolkata,Credit Card
+ORD0997,20/04/2024,C119,Coffee Mug,Home,3,10,30,Chennai,Credit Card
+ORD0368,28/03/2024,C119,Desk Lamp,Home,4,25,100,Bangalore,Credit Card
+ORD0484,29/03/2024,C119,Desk Lamp,Home,1,25,25,Delhi,Cash on Delivery
+ORD0966,29/01/2024,C119,Desk Lamp,Home,3,25,75,Kolkata,Cash on Delivery
+ORD0114,17/04/2024,C120,Headphones,Electronics,1,50,50,Mumbai,Debit Card
+ORD0406,29/02/2024,C120,Coffee Mug,Home,2,10,20,Chennai,Debit Card
+ORD0300,3/4/2024,C121,Jeans,Apparel,1,45,45,Mumbai,UPI
+ORD0391,31/03/2024,C121,Laptop,Electronics,2,800,1600,Mumbai,UPI
+ORD0542,21/04/2024,C121,Coffee Mug,Home,1,10,10,Delhi,Debit Card
+ORD0618,20/02/2024,C121,Laptop,Electronics,3,800,2400,Bangalore,Credit Card
+ORD0652,20/04/2024,C121,Jeans,Apparel,3,45,135,Bangalore,Cash on Delivery
+ORD0049,18/04/2024,C122,T-shirt,Apparel,2,20,40,Bangalore,Cash on Delivery
+ORD0781,5/1/2024,C122,Phone,Electronics,2,600,1200,Kolkata,UPI
+ORD0887,1/1/2024,C122,Headphones,Electronics,2,50,100,Bangalore,Credit Card
+ORD0594,15/01/2024,C123,Phone,Electronics,2,600,1200,Chennai,Debit Card
+ORD0446,20/04/2024,C123,Blender,Home,2,35,70,Mumbai,UPI
+ORD0833,15/04/2024,C123,Headphones,Electronics,1,50,50,Kolkata,Debit Card
+ORD0095,30/03/2024,C124,Jeans,Apparel,1,45,45,Bangalore,Debit Card
+ORD0263,16/04/2024,C124,Sneakers,Footwear,3,60,180,Chennai,Debit Card
+ORD0711,17/01/2024,C124,Coffee Mug,Home,2,10,20,Chennai,Debit Card
+ORD0821,7/2/2024,C124,T-shirt,Apparel,3,20,60,Bangalore,Credit Card
+ORD0958,22/04/2024,C124,Sneakers,Footwear,2,60,120,Delhi,Cash on Delivery
+ORD0217,19/04/2024,C125,Coffee Mug,Home,1,10,10,Bangalore,UPI
+ORD0636,17/02/2024,C125,Phone,Electronics,3,600,1800,Chennai,Cash on Delivery
+ORD0693,1/2/2024,C125,Desk Lamp,Home,3,25,75,Kolkata,Cash on Delivery
+ORD0816,15/04/2024,C125,T-shirt,Apparel,2,20,40,Mumbai,UPI
+ORD0998,19/01/2024,C125,Desk Lamp,Home,4,25,100,Bangalore,Credit Card
+ORD0162,10/2/2024,C126,Coffee Mug,Home,5,10,50,Kolkata,Credit Card
+ORD0866,20/04/2024,C126,Phone,Electronics,1,600,600,Delhi,Debit Card
+ORD0308,11/2/2024,C128,Blender,Home,5,35,175,Kolkata,Credit Card
+ORD0354,6/4/2024,C128,Coffee Mug,Home,1,10,10,Chennai,Debit Card
+ORD0633,24/04/2024,C128,Sneakers,Footwear,3,60,180,Bangalore,Credit Card
+ORD0813,7/4/2024,C128,Blender,Home,2,35,70,Mumbai,UPI
+ORD0050,2/2/2024,C129,Coffee Mug,Home,1,10,10,Bangalore,Credit Card
+ORD0075,30/03/2024,C129,T-shirt,Apparel,5,20,100,Kolkata,Cash on Delivery
+ORD0103,9/1/2024,C129,Coffee Mug,Home,2,10,20,Bangalore,Cash on Delivery
+ORD0289,4/4/2024,C129,Coffee Mug,Home,2,10,20,Delhi,Debit Card
+ORD0578,24/04/2024,C129,Sneakers,Footwear,3,60,180,Delhi,UPI
+ORD0366,21/01/2024,C130,Jeans,Apparel,3,45,135,Mumbai,Debit Card
+ORD0438,26/01/2024,C131,Blender,Home,4,35,140,Chennai,Debit Card
+ORD0411,6/4/2024,C132,Blender,Home,1,35,35,Delhi,Credit Card
+ORD0466,7/4/2024,C132,Coffee Mug,Home,3,10,30,Bangalore,UPI
+ORD0211,8/4/2024,C133,Blender,Home,1,35,35,Mumbai,Cash on Delivery
+ORD0461,21/03/2024,C134,Phone,Electronics,5,600,3000,Delhi,UPI
+ORD0817,30/01/2024,C134,Headphones,Electronics,4,50,200,Bangalore,Cash on Delivery
+ORD0942,22/03/2024,C134,Jeans,Apparel,4,45,180,Delhi,UPI
+ORD0035,8/3/2024,C135,Blender,Home,5,35,175,Kolkata,Credit Card
+ORD0081,9/4/2024,C135,Coffee Mug,Home,1,10,10,Kolkata,Debit Card
+ORD0118,9/4/2024,C135,Laptop,Electronics,2,800,1600,Delhi,UPI
+ORD0324,7/1/2024,C135,Blender,Home,2,35,70,Delhi,Cash on Delivery
+ORD0339,22/03/2024,C135,Headphones,Electronics,2,50,100,Kolkata,UPI
+ORD0321,21/01/2024,C135,Headphones,Electronics,2,50,100,Chennai,UPI
+ORD0345,1/3/2024,C135,Phone,Electronics,3,600,1800,Bangalore,Credit Card
+ORD0141,9/4/2024,C136,Blender,Home,4,35,140,Bangalore,Credit Card
+ORD0151,14/02/2024,C136,Jeans,Apparel,1,45,45,Mumbai,Debit Card
+ORD0580,7/4/2024,C136,Jeans,Apparel,2,45,90,Bangalore,UPI
+ORD0614,6/1/2024,C136,Coffee Mug,Home,2,10,20,Bangalore,Debit Card
+ORD0709,25/01/2024,C136,Desk Lamp,Home,3,25,75,Mumbai,Credit Card
+ORD0173,26/04/2024,C137,Desk Lamp,Home,2,25,50,Mumbai,UPI
+ORD0508,7/1/2024,C138,Coffee Mug,Home,4,10,40,Mumbai,UPI
+ORD0857,1/2/2024,C138,Coffee Mug,Home,3,10,30,Kolkata,Cash on Delivery
+ORD0566,31/01/2024,C139,Phone,Electronics,5,600,3000,Chennai,Debit Card
+ORD0524,2/2/2024,C139,Headphones,Electronics,3,50,150,Bangalore,Credit Card
+ORD0569,20/02/2024,C139,T-shirt,Apparel,4,20,80,Kolkata,Cash on Delivery
+ORD0175,17/04/2024,C140,Coffee Mug,Home,2,10,20,Delhi,Cash on Delivery
+ORD0802,3/3/2024,C140,Blender,Home,1,35,35,Chennai,Credit Card
+ORD0360,27/04/2024,C140,Laptop,Electronics,3,800,2400,Bangalore,Credit Card
+ORD0543,25/04/2024,C140,T-shirt,Apparel,1,20,20,Delhi,UPI
+ORD0598,14/02/2024,C140,Coffee Mug,Home,4,10,40,Bangalore,Cash on Delivery
+ORD0416,10/1/2024,C141,Sneakers,Footwear,4,60,240,Delhi,Cash on Delivery
+ORD0928,1/2/2024,C141,Blender,Home,4,35,140,Bangalore,Cash on Delivery
+ORD0940,11/4/2024,C141,Blender,Home,1,35,35,Bangalore,Credit Card
+ORD0983,19/01/2024,C141,T-shirt,Apparel,4,20,80,Kolkata,Cash on Delivery
+ORD0097,23/02/2024,C142,Headphones,Electronics,2,50,100,Delhi,Cash on Delivery
+ORD0885,12/4/2024,C142,Coffee Mug,Home,3,10,30,Kolkata,Debit Card
+ORD0194,20/03/2024,C143,Blender,Home,3,35,105,Delhi,UPI
+ORD0593,10/4/2024,C143,Headphones,Electronics,1,50,50,Delhi,Debit Card
+ORD0722,28/01/2024,C143,Phone,Electronics,3,600,1800,Mumbai,Cash on Delivery
+ORD0875,12/4/2024,C143,Sneakers,Footwear,4,60,240,Bangalore,Cash on Delivery
+ORD0093,26/01/2024,C144,Sneakers,Footwear,4,60,240,Mumbai,Credit Card
+ORD0269,27/04/2024,C144,Phone,Electronics,1,600,600,Delhi,UPI
+ORD0379,24/01/2024,C144,Sneakers,Footwear,3,60,180,Bangalore,Cash on Delivery
+ORD0713,8/2/2024,C144,Desk Lamp,Home,4,25,100,Delhi,Debit Card
+ORD0273,29/04/2024,C145,Blender,Home,4,35,140,Chennai,Credit Card
+ORD0745,8/2/2024,C145,T-shirt,Apparel,4,20,80,Delhi,UPI
+ORD0840,9/1/2024,C145,Jeans,Apparel,1,45,45,Kolkata,Cash on Delivery
+ORD0870,9/4/2024,C145,Coffee Mug,Home,2,10,20,Mumbai,Cash on Delivery
+ORD0016,9/4/2024,C146,Coffee Mug,Home,3,10,30,Delhi,UPI
+ORD0188,26/03/2024,C146,Headphones,Electronics,1,50,50,Delhi,UPI
+ORD0944,29/01/2024,C146,Jeans,Apparel,3,45,135,Mumbai,UPI
+ORD0143,30/04/2024,C147,Sneakers,Footwear,4,60,240,Bangalore,Cash on Delivery
+ORD0272,13/04/2024,C147,Blender,Home,2,35,70,Delhi,UPI
+ORD0544,9/2/2024,C147,Phone,Electronics,3,600,1800,Delhi,Cash on Delivery
+ORD0685,2/1/2024,C147,T-shirt,Apparel,2,20,40,Delhi,Cash on Delivery
+ORD0725,21/02/2024,C147,T-shirt,Apparel,4,20,80,Bangalore,Cash on Delivery
+ORD0740,25/02/2024,C147,Coffee Mug,Home,2,10,20,Delhi,Cash on Delivery
+ORD0051,17/01/2024,C148,Blender,Home,3,35,105,Bangalore,Cash on Delivery
+ORD0066,9/3/2024,C148,Coffee Mug,Home,3,10,30,Kolkata,UPI
+ORD0171,16/01/2024,C148,Phone,Electronics,2,600,1200,Bangalore,Cash on Delivery
+ORD0737,10/1/2024,C148,Jeans,Apparel,2,45,90,Delhi,Credit Card
+ORD0420,26/02/2024,C149,T-shirt,Apparel,3,20,60,Chennai,Credit Card
+ORD0432,14/04/2024,C149,Laptop,Electronics,5,800,4000,Delhi,Credit Card
+ORD0436,1/2/2024,C149,Desk Lamp,Home,3,25,75,Bangalore,Credit Card
+ORD0988,9/3/2024,C149,Sneakers,Footwear,5,60,300,Mumbai,UPI
+ORD0361,29/04/2024,C150,Blender,Home,1,35,35,Chennai,Debit Card
+ORD0549,17/02/2024,C150,Blender,Home,5,35,175,Bangalore,Credit Card
+ORD0612,12/3/2024,C150,Coffee Mug,Home,2,10,20,Kolkata,Debit Card
+ORD0072,3/3/2024,C151,Headphones,Electronics,4,50,200,Chennai,Credit Card
+ORD0251,25/02/2024,C151,Coffee Mug,Home,3,10,30,Chennai,Credit Card
+ORD0726,26/04/2024,C151,Desk Lamp,Home,4,25,100,Chennai,Credit Card
+ORD0619,13/04/2024,C151,Jeans,Apparel,3,45,135,Kolkata,Debit Card
+ORD0669,24/03/2024,C151,Blender,Home,4,35,140,Delhi,Cash on Delivery
+ORD0582,3/4/2024,C152,T-shirt,Apparel,2,20,40,Bangalore,Cash on Delivery
+ORD0982,20/01/2024,C152,Blender,Home,3,35,105,Mumbai,Cash on Delivery
+ORD0029,12/4/2024,C153,Coffee Mug,Home,3,10,30,Kolkata,UPI
+ORD0788,27/04/2024,C153,Sneakers,Footwear,4,60,240,Kolkata,Credit Card
+ORD0822,10/3/2024,C153,Desk Lamp,Home,5,25,125,Bangalore,Cash on Delivery
+ORD0873,19/01/2024,C153,T-shirt,Apparel,2,20,40,Kolkata,Debit Card
+ORD0293,5/2/2024,C154,Coffee Mug,Home,5,10,50,Chennai,UPI
+ORD0529,12/3/2024,C154,Blender,Home,1,35,35,Chennai,Debit Card
+ORD0667,17/04/2024,C154,Desk Lamp,Home,1,25,25,Bangalore,Credit Card
+ORD0845,19/01/2024,C154,Sneakers,Footwear,4,60,240,Kolkata,Credit Card
+ORD0165,1/2/2024,C155,T-shirt,Apparel,4,20,80,Mumbai,Debit Card
+ORD0193,17/04/2024,C155,Blender,Home,4,35,140,Mumbai,UPI
+ORD0452,26/02/2024,C155,Jeans,Apparel,4,45,180,Chennai,Cash on Delivery
+ORD0891,1/3/2024,C155,Laptop,Electronics,3,800,2400,Delhi,Credit Card
+ORD0056,15/01/2024,C156,Jeans,Apparel,5,45,225,Bangalore,Credit Card
+ORD0320,16/04/2024,C156,Coffee Mug,Home,2,10,20,Delhi,UPI
+ORD0147,11/3/2024,C156,T-shirt,Apparel,3,20,60,Chennai,Credit Card
+ORD0449,7/2/2024,C156,Phone,Electronics,4,600,2400,Delhi,Cash on Delivery
+ORD0132,14/01/2024,C157,Sneakers,Footwear,5,60,300,Kolkata,Debit Card
+ORD0346,27/04/2024,C157,Jeans,Apparel,3,45,135,Kolkata,UPI
+ORD0945,16/01/2024,C157,Desk Lamp,Home,4,25,100,Chennai,Credit Card
+ORD0560,18/04/2024,C157,Coffee Mug,Home,2,10,20,Kolkata,UPI
+ORD0087,22/01/2024,C158,Laptop,Electronics,3,800,2400,Kolkata,Debit Card
+ORD0216,7/4/2024,C158,Phone,Electronics,2,600,1200,Bangalore,Cash on Delivery
+ORD0440,13/02/2024,C158,Desk Lamp,Home,5,25,125,Delhi,Debit Card
+ORD0597,2/1/2024,C158,Coffee Mug,Home,2,10,20,Delhi,Cash on Delivery
+ORD0910,14/01/2024,C158,Sneakers,Footwear,3,60,180,Bangalore,Cash on Delivery
+ORD0177,23/01/2024,C160,T-shirt,Apparel,3,20,60,Mumbai,Cash on Delivery
+ORD0602,15/04/2024,C160,Sneakers,Footwear,4,60,240,Bangalore,Credit Card
+ORD0296,26/02/2024,C161,T-shirt,Apparel,4,20,80,Mumbai,Credit Card
+ORD0341,28/04/2024,C161,Headphones,Electronics,2,50,100,Bangalore,Debit Card
+ORD0467,2/3/2024,C161,Coffee Mug,Home,3,10,30,Bangalore,UPI
+ORD0770,2/3/2024,C161,Desk Lamp,Home,5,25,125,Mumbai,Credit Card
+ORD0899,18/03/2024,C161,Jeans,Apparel,5,45,225,Delhi,Debit Card
+ORD0233,22/01/2024,C162,Laptop,Electronics,3,800,2400,Bangalore,Cash on Delivery
+ORD0464,19/01/2024,C162,Jeans,Apparel,2,45,90,Delhi,Cash on Delivery
+ORD0743,23/01/2024,C162,T-shirt,Apparel,2,20,40,Kolkata,UPI
+ORD0971,4/4/2024,C162,Blender,Home,1,35,35,Mumbai,Credit Card
+ORD0159,20/04/2024,C163,Sneakers,Footwear,5,60,300,Bangalore,Credit Card
+ORD0715,19/03/2024,C163,Sneakers,Footwear,3,60,180,Delhi,UPI
+ORD0767,22/01/2024,C163,Headphones,Electronics,5,50,250,Kolkata,Credit Card
+ORD0839,22/01/2024,C163,Coffee Mug,Home,5,10,50,Bangalore,Credit Card
+ORD0374,8/4/2024,C164,Jeans,Apparel,1,45,45,Mumbai,UPI
+ORD0892,5/1/2024,C164,T-shirt,Apparel,2,20,40,Chennai,Debit Card
+ORD0527,5/3/2024,C164,T-shirt,Apparel,3,20,60,Kolkata,Cash on Delivery
+ORD0903,3/4/2024,C164,Headphones,Electronics,1,50,50,Mumbai,Debit Card
+ORD0163,7/2/2024,C165,Jeans,Apparel,5,45,225,Bangalore,Credit Card
+ORD0218,1/1/2024,C165,Coffee Mug,Home,4,10,40,Bangalore,UPI
+ORD0325,19/02/2024,C165,Coffee Mug,Home,4,10,40,Bangalore,Cash on Delivery
+ORD0453,2/1/2024,C165,Desk Lamp,Home,3,25,75,Chennai,Credit Card
+ORD0396,3/4/2024,C165,Desk Lamp,Home,4,25,100,Bangalore,Cash on Delivery
+ORD0510,16/04/2024,C165,Desk Lamp,Home,3,25,75,Chennai,Credit Card
+ORD0637,23/01/2024,C165,Sneakers,Footwear,3,60,180,Bangalore,Cash on Delivery
+ORD0710,25/01/2024,C165,Jeans,Apparel,4,45,180,Mumbai,Debit Card
+ORD0572,24/01/2024,C166,Laptop,Electronics,4,800,3200,Delhi,Debit Card
+ORD0801,31/01/2024,C167,T-shirt,Apparel,3,20,60,Chennai,Cash on Delivery
+ORD0600,24/01/2024,C167,Sneakers,Footwear,2,60,120,Kolkata,Debit Card
+ORD0838,3/4/2024,C167,Desk Lamp,Home,2,25,50,Mumbai,Debit Card
+ORD0309,3/1/2024,C168,Jeans,Apparel,2,45,90,Bangalore,Cash on Delivery
+ORD0626,21/03/2024,C168,Laptop,Electronics,1,800,800,Delhi,Debit Card
+ORD0020,13/02/2024,C169,Coffee Mug,Home,1,10,10,Kolkata,Debit Card
+ORD0472,5/3/2024,C169,T-shirt,Apparel,5,20,100,Delhi,UPI
+ORD0494,25/01/2024,C169,Headphones,Electronics,5,50,250,Kolkata,Credit Card
+ORD0567,2/1/2024,C169,Jeans,Apparel,2,45,90,Kolkata,UPI
+ORD0601,16/03/2024,C169,Desk Lamp,Home,5,25,125,Kolkata,Credit Card
+ORD0671,3/2/2024,C170,Jeans,Apparel,3,45,135,Mumbai,UPI
+ORD0728,20/03/2024,C170,Laptop,Electronics,5,800,4000,Mumbai,Cash on Delivery
+ORD0957,7/1/2024,C170,Desk Lamp,Home,2,25,50,Mumbai,Credit Card
+ORD0980,13/02/2024,C170,Laptop,Electronics,3,800,2400,Delhi,Cash on Delivery
+ORD0394,9/1/2024,C171,T-shirt,Apparel,1,20,20,Chennai,Credit Card
+ORD0176,20/02/2024,C172,Coffee Mug,Home,4,10,40,Bangalore,Cash on Delivery
+ORD0329,10/1/2024,C172,T-shirt,Apparel,4,20,80,Bangalore,Cash on Delivery
+ORD0523,19/04/2024,C172,Desk Lamp,Home,2,25,50,Bangalore,Cash on Delivery
+ORD0528,24/01/2024,C173,Jeans,Apparel,3,45,135,Chennai,Cash on Delivery
+ORD0585,7/2/2024,C173,Laptop,Electronics,5,800,4000,Chennai,Debit Card
+ORD0946,5/3/2024,C173,Sneakers,Footwear,3,60,180,Chennai,Credit Card
+ORD0779,10/1/2024,C173,Sneakers,Footwear,2,60,120,Kolkata,Cash on Delivery
+ORD0836,24/04/2024,C173,Headphones,Electronics,1,50,50,Delhi,UPI
+ORD0908,20/04/2024,C173,Headphones,Electronics,4,50,200,Delhi,UPI
+ORD0088,9/1/2024,C174,Blender,Home,2,35,70,Kolkata,UPI
+ORD0814,9/1/2024,C174,Phone,Electronics,2,600,1200,Bangalore,Debit Card
+ORD0023,6/3/2024,C175,Jeans,Apparel,2,45,90,Delhi,Credit Card
+ORD0328,3/4/2024,C175,Desk Lamp,Home,1,25,25,Chennai,Cash on Delivery
+ORD0768,25/04/2024,C175,Coffee Mug,Home,3,10,30,Bangalore,UPI
+ORD0787,26/03/2024,C175,Coffee Mug,Home,1,10,10,Kolkata,UPI
+ORD0200,15/02/2024,C176,T-shirt,Apparel,3,20,60,Delhi,Cash on Delivery
+ORD0707,15/02/2024,C176,Phone,Electronics,3,600,1800,Delhi,Cash on Delivery
+ORD0052,10/2/2024,C177,Blender,Home,5,35,175,Delhi,Cash on Delivery
+ORD0106,29/01/2024,C178,Sneakers,Footwear,3,60,180,Bangalore,Cash on Delivery
+ORD0254,10/3/2024,C178,Sneakers,Footwear,3,60,180,Kolkata,Credit Card
+ORD0179,7/3/2024,C178,Jeans,Apparel,1,45,45,Chennai,Credit Card
+ORD0653,9/3/2024,C178,T-shirt,Apparel,5,20,100,Chennai,Credit Card
+ORD0962,22/01/2024,C178,T-shirt,Apparel,2,20,40,Delhi,UPI
+ORD0991,21/04/2024,C178,Laptop,Electronics,1,800,800,Delhi,Debit Card
+ORD0204,7/3/2024,C179,Blender,Home,4,35,140,Chennai,Debit Card
+ORD0470,25/01/2024,C179,Laptop,Electronics,2,800,1600,Bangalore,Debit Card
+ORD0698,7/4/2024,C179,Desk Lamp,Home,1,25,25,Mumbai,Debit Card
+ORD0847,26/03/2024,C179,Desk Lamp,Home,4,25,100,Bangalore,Debit Card
+ORD0393,27/04/2024,C180,Desk Lamp,Home,2,25,50,Bangalore,UPI
+ORD0442,18/02/2024,C180,Headphones,Electronics,3,50,150,Delhi,UPI
+ORD0672,26/01/2024,C180,Desk Lamp,Home,4,25,100,Chennai,Debit Card
+ORD0101,11/1/2024,C181,Sneakers,Footwear,2,60,120,Delhi,UPI
+ORD0199,8/3/2024,C181,Coffee Mug,Home,3,10,30,Delhi,Cash on Delivery
+ORD0287,27/04/2024,C181,Coffee Mug,Home,1,10,10,Kolkata,UPI
+ORD0951,22/04/2024,C181,Jeans,Apparel,1,45,45,Kolkata,Debit Card
+ORD0036,12/1/2024,C182,Sneakers,Footwear,3,60,180,Chennai,Cash on Delivery
+ORD0819,30/01/2024,C182,Blender,Home,4,35,140,Chennai,Credit Card
+ORD0565,21/04/2024,C182,Desk Lamp,Home,3,25,75,Delhi,UPI
+ORD0276,24/02/2024,C183,Blender,Home,1,35,35,Bangalore,Credit Card
+ORD0398,25/01/2024,C183,Sneakers,Footwear,3,60,180,Kolkata,Debit Card
+ORD0299,25/01/2024,C184,Laptop,Electronics,1,800,800,Delhi,UPI
+ORD0808,31/01/2024,C184,Phone,Electronics,5,600,3000,Kolkata,Debit Card
+ORD0121,15/01/2024,C185,Jeans,Apparel,1,45,45,Bangalore,Cash on Delivery
+ORD0250,29/04/2024,C185,Desk Lamp,Home,2,25,50,Mumbai,Cash on Delivery
+ORD0017,24/04/2024,C186,Blender,Home,3,35,105,Chennai,Credit Card
+ORD0574,8/4/2024,C186,Jeans,Apparel,4,45,180,Chennai,Debit Card
+ORD0803,10/1/2024,C186,Sneakers,Footwear,3,60,180,Chennai,Credit Card
+ORD0635,27/04/2024,C186,Headphones,Electronics,4,50,200,Delhi,Cash on Delivery
+ORD0775,18/03/2024,C186,Sneakers,Footwear,1,60,60,Delhi,Credit Card
+ORD0860,16/01/2024,C186,Sneakers,Footwear,3,60,180,Mumbai,Debit Card
+ORD0086,12/4/2024,C187,T-shirt,Apparel,3,20,60,Delhi,UPI
+ORD0180,9/1/2024,C187,Desk Lamp,Home,3,25,75,Chennai,Debit Card
+ORD0654,8/1/2024,C187,Desk Lamp,Home,2,25,50,Chennai,Cash on Delivery
+ORD0506,16/01/2024,C187,Sneakers,Footwear,2,60,120,Delhi,Cash on Delivery
+ORD0678,29/04/2024,C187,Laptop,Electronics,1,800,800,Kolkata,Debit Card
+ORD0684,10/1/2024,C187,Coffee Mug,Home,1,10,10,Mumbai,Credit Card
+ORD0120,23/01/2024,C188,Blender,Home,3,35,105,Bangalore,Debit Card
+ORD0123,6/4/2024,C188,Desk Lamp,Home,4,25,100,Delhi,Cash on Delivery
+ORD0546,2/2/2024,C188,Coffee Mug,Home,4,10,40,Chennai,Credit Card
+ORD0620,18/01/2024,C188,Blender,Home,4,35,140,Chennai,Debit Card
+ORD0800,4/2/2024,C188,T-shirt,Apparel,2,20,40,Chennai,Cash on Delivery
+ORD0630,8/4/2024,C188,Phone,Electronics,1,600,600,Mumbai,UPI
+ORD0748,27/02/2024,C188,Jeans,Apparel,4,45,180,Delhi,UPI
+ORD0138,6/3/2024,C189,Blender,Home,1,35,35,Delhi,Debit Card
+ORD0364,29/01/2024,C189,Laptop,Electronics,4,800,3200,Kolkata,Credit Card
+ORD0327,31/01/2024,C190,Sneakers,Footwear,2,60,120,Kolkata,Credit Card
+ORD0541,29/04/2024,C190,Phone,Electronics,2,600,1200,Bangalore,UPI
+ORD0547,8/2/2024,C190,Blender,Home,3,35,105,Bangalore,UPI
+ORD0353,31/03/2024,C191,Laptop,Electronics,1,800,800,Mumbai,Debit Card
+ORD0425,16/04/2024,C191,T-shirt,Apparel,1,20,20,Mumbai,Debit Card
+ORD0856,27/04/2024,C191,Headphones,Electronics,4,50,200,Chennai,Credit Card
+ORD0670,28/02/2024,C191,Headphones,Electronics,3,50,150,Delhi,Debit Card
+ORD0718,15/04/2024,C191,Jeans,Apparel,2,45,90,Delhi,Debit Card
+ORD0221,18/01/2024,C192,Coffee Mug,Home,5,10,50,Mumbai,Debit Card
+ORD0605,3/3/2024,C192,Jeans,Apparel,5,45,225,Kolkata,Debit Card
+ORD0455,23/03/2024,C193,Laptop,Electronics,5,800,4000,Mumbai,Credit Card
+ORD0197,3/2/2024,C193,Laptop,Electronics,5,800,4000,Chennai,UPI
+ORD0014,30/04/2024,C194,Blender,Home,2,35,70,Mumbai,UPI
+ORD0347,21/01/2024,C194,T-shirt,Apparel,4,20,80,Chennai,Debit Card
+ORD0091,31/01/2024,C195,Laptop,Electronics,5,800,4000,Kolkata,Credit Card
+ORD0311,28/03/2024,C195,Coffee Mug,Home,3,10,30,Kolkata,Cash on Delivery
+ORD0357,12/3/2024,C195,Phone,Electronics,2,600,1200,Delhi,UPI
+ORD0915,23/02/2024,C195,Jeans,Apparel,4,45,180,Bangalore,Cash on Delivery
+ORD0068,3/1/2024,C196,Phone,Electronics,2,600,1200,Bangalore,Debit Card
+ORD0292,26/04/2024,C196,T-shirt,Apparel,3,20,60,Delhi,UPI
+ORD0377,12/2/2024,C196,Desk Lamp,Home,4,25,100,Chennai,Credit Card
+ORD0673,12/3/2024,C196,Sneakers,Footwear,4,60,240,Chennai,Credit Card
+ORD0563,30/04/2024,C196,Coffee Mug,Home,2,10,20,Delhi,Cash on Delivery
+ORD0026,31/01/2024,C197,Coffee Mug,Home,2,10,20,Delhi,Debit Card
+ORD0054,5/2/2024,C197,Phone,Electronics,2,600,1200,Kolkata,Credit Card
+ORD0312,31/01/2024,C197,Laptop,Electronics,5,800,4000,Chennai,Credit Card
+ORD0696,19/02/2024,C197,T-shirt,Apparel,3,20,60,Chennai,Credit Card
+ORD0495,1/1/2024,C198,Blender,Home,3,35,105,Bangalore,UPI
+ORD0256,15/03/2024,C198,Desk Lamp,Home,1,25,25,Chennai,Debit Card
+ORD0731,21/02/2024,C198,Jeans,Apparel,1,45,45,Chennai,Credit Card
+ORD0502,11/3/2024,C199,Sneakers,Footwear,1,60,60,Bangalore,Debit Card
+ORD0055,8/4/2024,C199,Blender,Home,1,35,35,Chennai,Credit Card
+ORD0553,24/02/2024,C200,Desk Lamp,Home,5,25,125,Kolkata,Debit Card
+ORD0530,19/01/2024,C200,Sneakers,Footwear,3,60,180,Chennai,Credit Card
+ORD0587,17/02/2024,C200,Phone,Electronics,3,600,1800,Mumbai,UPI
+ORD0027,9/4/2024,C201,Laptop,Electronics,2,800,1600,Mumbai,UPI
+ORD0099,17/04/2024,C201,Headphones,Electronics,3,50,150,Mumbai,UPI
+ORD0434,25/02/2024,C201,Headphones,Electronics,4,50,200,Chennai,Credit Card
+ORD0911,2/2/2024,C201,Coffee Mug,Home,1,10,10,Bangalore,Credit Card
+ORD0038,4/4/2024,C202,T-shirt,Apparel,4,20,80,Mumbai,Cash on Delivery
+ORD0290,19/04/2024,C202,Coffee Mug,Home,2,10,20,Bangalore,Cash on Delivery
+ORD0362,2/1/2024,C202,Headphones,Electronics,4,50,200,Delhi,Credit Card
+ORD0400,17/03/2024,C202,Laptop,Electronics,4,800,3200,Bangalore,Cash on Delivery
+ORD0423,26/02/2024,C202,Jeans,Apparel,3,45,135,Kolkata,Credit Card
+ORD0893,24/01/2024,C202,Coffee Mug,Home,4,10,40,Bangalore,Credit Card
+ORD0294,5/1/2024,C203,Sneakers,Footwear,2,60,120,Mumbai,Cash on Delivery
+ORD0771,7/2/2024,C203,Jeans,Apparel,3,45,135,Bangalore,Cash on Delivery
+ORD0872,4/1/2024,C203,Blender,Home,4,35,140,Bangalore,UPI
+ORD0963,9/2/2024,C203,Laptop,Electronics,4,800,3200,Bangalore,Credit Card
+ORD0967,5/3/2024,C203,T-shirt,Apparel,4,20,80,Bangalore,Cash on Delivery
+ORD0080,5/4/2024,C204,Phone,Electronics,1,600,600,Mumbai,Debit Card
+ORD0268,5/1/2024,C204,Laptop,Electronics,1,800,800,Delhi,UPI
+ORD0397,8/3/2024,C205,Coffee Mug,Home,4,10,40,Bangalore,Cash on Delivery
+ORD0827,19/03/2024,C205,T-shirt,Apparel,5,20,100,Mumbai,Cash on Delivery
+ORD0003,29/02/2024,C206,Blender,Home,1,35,35,Bangalore,Credit Card
+ORD0766,4/2/2024,C206,Desk Lamp,Home,1,25,25,Mumbai,Cash on Delivery
+ORD0772,27/02/2024,C206,Jeans,Apparel,1,45,45,Kolkata,Debit Card
+ORD0794,8/1/2024,C206,Jeans,Apparel,2,45,90,Mumbai,Debit Card
+ORD0931,19/04/2024,C206,Sneakers,Footwear,1,60,60,Kolkata,Credit Card
+ORD0191,21/01/2024,C207,Sneakers,Footwear,2,60,120,Kolkata,UPI
+ORD0280,27/02/2024,C207,Laptop,Electronics,5,800,4000,Kolkata,UPI
+ORD0535,6/2/2024,C208,Coffee Mug,Home,5,10,50,Kolkata,Credit Card
+ORD0755,6/1/2024,C208,Desk Lamp,Home,2,25,50,Chennai,Credit Card
+ORD0878,23/02/2024,C208,T-shirt,Apparel,4,20,80,Chennai,Debit Card
+ORD0152,19/04/2024,C209,T-shirt,Apparel,1,20,20,Delhi,Debit Card
+ORD0419,9/1/2024,C209,Blender,Home,1,35,35,Bangalore,Credit Card
+ORD0104,2/2/2024,C209,T-shirt,Apparel,4,20,80,Chennai,Credit Card
+ORD0724,23/01/2024,C209,Blender,Home,3,35,105,Bangalore,Credit Card
+ORD0043,3/4/2024,C210,Laptop,Electronics,1,800,800,Delhi,Debit Card
+ORD0405,5/1/2024,C210,Phone,Electronics,5,600,3000,Kolkata,Debit Card
+ORD0301,18/04/2024,C210,Jeans,Apparel,1,45,45,Chennai,Debit Card
+ORD0599,9/1/2024,C210,Desk Lamp,Home,4,25,100,Bangalore,UPI
+ORD0919,23/03/2024,C210,T-shirt,Apparel,5,20,100,Bangalore,UPI
+ORD0584,23/03/2024,C211,Coffee Mug,Home,3,10,30,Kolkata,Cash on Delivery
+ORD0656,13/02/2024,C211,Laptop,Electronics,4,800,3200,Mumbai,Credit Card
+ORD0222,10/1/2024,C212,Blender,Home,3,35,105,Bangalore,UPI
+ORD0897,8/2/2024,C212,Sneakers,Footwear,4,60,240,Mumbai,Cash on Delivery
+ORD0399,29/01/2024,C213,T-shirt,Apparel,4,20,80,Bangalore,Credit Card
+ORD0161,27/02/2024,C213,Headphones,Electronics,5,50,250,Chennai,Credit Card
+ORD0969,13/02/2024,C213,Desk Lamp,Home,3,25,75,Chennai,Credit Card
+ORD0478,16/04/2024,C214,Laptop,Electronics,3,800,2400,Bangalore,UPI
+ORD0274,22/01/2024,C214,Desk Lamp,Home,2,25,50,Chennai,Cash on Delivery
+ORD0769,13/02/2024,C214,Blender,Home,4,35,140,Chennai,Credit Card
+ORD0832,9/4/2024,C214,Phone,Electronics,3,600,1800,Bangalore,Debit Card
+ORD0943,23/02/2024,C214,Headphones,Electronics,3,50,150,Delhi,Debit Card
+ORD0262,13/02/2024,C215,Phone,Electronics,1,600,600,Kolkata,Credit Card
+ORD0451,9/2/2024,C215,Blender,Home,3,35,105,Bangalore,Credit Card
+ORD0638,11/2/2024,C215,Coffee Mug,Home,1,10,10,Bangalore,Credit Card
+ORD0786,4/1/2024,C215,T-shirt,Apparel,3,20,60,Bangalore,Cash on Delivery
+ORD0257,22/01/2024,C216,Laptop,Electronics,4,800,3200,Chennai,Credit Card
+ORD0764,19/04/2024,C216,Headphones,Electronics,2,50,100,Bangalore,Debit Card
+ORD0307,10/1/2024,C217,Sneakers,Footwear,3,60,180,Bangalore,UPI
+ORD0074,15/02/2024,C217,T-shirt,Apparel,5,20,100,Chennai,Debit Card
+ORD0089,12/1/2024,C217,Headphones,Electronics,5,50,250,Chennai,Credit Card
+ORD0826,15/02/2024,C217,Desk Lamp,Home,5,25,125,Chennai,Debit Card
+ORD0690,23/01/2024,C217,Phone,Electronics,3,600,1800,Bangalore,Credit Card
+ORD0730,10/4/2024,C217,Sneakers,Footwear,5,60,300,Mumbai,UPI
+ORD0932,30/01/2024,C217,Jeans,Apparel,1,45,45,Kolkata,Debit Card
+ORD0084,18/03/2024,C218,Headphones,Electronics,2,50,100,Delhi,Cash on Delivery
+ORD0203,20/04/2024,C218,Jeans,Apparel,5,45,225,Chennai,Cash on Delivery
+ORD0642,28/02/2024,C218,Laptop,Electronics,4,800,3200,Chennai,Debit Card
+ORD0047,22/04/2024,C219,Coffee Mug,Home,2,10,20,Delhi,UPI
+ORD0235,17/01/2024,C219,Desk Lamp,Home,3,25,75,Mumbai,UPI
+ORD0521,13/01/2024,C219,Sneakers,Footwear,3,60,180,Mumbai,Debit Card
+ORD0073,6/1/2024,C220,Sneakers,Footwear,4,60,240,Kolkata,UPI
+ORD0589,6/3/2024,C220,Phone,Electronics,5,600,3000,Delhi,Debit Card
+ORD0784,24/01/2024,C220,Phone,Electronics,2,600,1200,Chennai,Cash on Delivery
+ORD0825,22/01/2024,C220,Jeans,Apparel,3,45,135,Chennai,UPI
+ORD0498,20/02/2024,C221,Sneakers,Footwear,3,60,180,Bangalore,Cash on Delivery
+ORD0631,26/01/2024,C221,Sneakers,Footwear,2,60,120,Bangalore,UPI
+ORD0220,16/02/2024,C222,Desk Lamp,Home,2,25,50,Delhi,Cash on Delivery
+ORD0475,5/3/2024,C222,Jeans,Apparel,3,45,135,Bangalore,Cash on Delivery
+ORD0499,5/3/2024,C222,Desk Lamp,Home,2,25,50,Kolkata,Debit Card
+ORD0744,8/2/2024,C222,Desk Lamp,Home,5,25,125,Kolkata,UPI
+ORD0965,27/04/2024,C222,Coffee Mug,Home,5,10,50,Bangalore,Cash on Delivery
+ORD0146,14/01/2024,C223,Blender,Home,1,35,35,Bangalore,Credit Card
+ORD0655,2/3/2024,C224,Desk Lamp,Home,5,25,125,Bangalore,Credit Card
+ORD0383,23/02/2024,C225,Laptop,Electronics,4,800,3200,Mumbai,Credit Card
+ORD0497,7/3/2024,C225,T-shirt,Apparel,5,20,100,Mumbai,Credit Card
+ORD0514,1/1/2024,C225,Desk Lamp,Home,1,25,25,Mumbai,UPI
+ORD0624,17/02/2024,C225,Sneakers,Footwear,4,60,240,Mumbai,Cash on Delivery
+ORD0841,29/02/2024,C225,Headphones,Electronics,5,50,250,Bangalore,Credit Card
+ORD0879,26/03/2024,C225,Laptop,Electronics,1,800,800,Mumbai,Credit Card
+ORD0150,2/3/2024,C226,Laptop,Electronics,3,800,2400,Kolkata,Credit Card
+ORD0127,26/03/2024,C226,Laptop,Electronics,4,800,3200,Chennai,Cash on Delivery
+ORD0674,16/01/2024,C226,Sneakers,Footwear,5,60,300,Kolkata,Cash on Delivery
+ORD0818,31/01/2024,C226,Desk Lamp,Home,3,25,75,Kolkata,UPI
+ORD0559,11/4/2024,C227,Headphones,Electronics,3,50,150,Bangalore,Debit Card
+ORD0646,31/03/2024,C227,T-shirt,Apparel,1,20,20,Bangalore,UPI
+ORD0332,6/3/2024,C227,Laptop,Electronics,5,800,4000,Chennai,Debit Card
+ORD0876,6/3/2024,C227,Desk Lamp,Home,4,25,100,Chennai,Debit Card
+ORD0437,15/01/2024,C229,Jeans,Apparel,5,45,225,Mumbai,Debit Card
+ORD0481,19/02/2024,C229,Sneakers,Footwear,1,60,60,Mumbai,Credit Card
+ORD0554,11/3/2024,C229,Jeans,Apparel,5,45,225,Mumbai,Cash on Delivery
+ORD0746,3/2/2024,C229,Laptop,Electronics,4,800,3200,Delhi,UPI
+ORD0007,8/3/2024,C230,Laptop,Electronics,5,800,4000,Kolkata,Debit Card
+ORD0205,26/01/2024,C230,Laptop,Electronics,4,800,3200,Bangalore,Cash on Delivery
+ORD0491,28/04/2024,C230,Coffee Mug,Home,3,10,30,Bangalore,UPI
+ORD0305,3/1/2024,C231,Headphones,Electronics,3,50,150,Delhi,Cash on Delivery
+ORD0381,3/2/2024,C231,Desk Lamp,Home,2,25,50,Kolkata,Credit Card
+ORD0658,24/04/2024,C231,Sneakers,Footwear,1,60,60,Mumbai,Credit Card
+ORD0039,3/2/2024,C231,Phone,Electronics,1,600,600,Chennai,Credit Card
+ORD0482,22/03/2024,C231,Desk Lamp,Home,2,25,50,Chennai,Debit Card
+ORD0949,15/02/2024,C231,Phone,Electronics,4,600,2400,Mumbai,Credit Card
+ORD0985,12/2/2024,C231,Desk Lamp,Home,4,25,100,Bangalore,Cash on Delivery
+ORD0224,14/03/2024,C232,Jeans,Apparel,5,45,225,Kolkata,Debit Card
+ORD0365,14/02/2024,C232,Blender,Home,5,35,175,Chennai,Debit Card
+ORD0369,8/3/2024,C232,Laptop,Electronics,2,800,1600,Chennai,Debit Card
+ORD0316,31/03/2024,C233,Headphones,Electronics,5,50,250,Delhi,Debit Card
+ORD0225,17/03/2024,C233,Sneakers,Footwear,4,60,240,Chennai,Credit Card
+ORD0884,14/01/2024,C233,Phone,Electronics,3,600,1800,Delhi,Debit Card
+ORD0515,17/01/2024,C234,Sneakers,Footwear,4,60,240,Kolkata,Credit Card
+ORD0659,17/02/2024,C234,Jeans,Apparel,1,45,45,Kolkata,Debit Card
+ORD0326,19/01/2024,C234,Desk Lamp,Home,3,25,75,Chennai,Cash on Delivery
+ORD0358,5/2/2024,C234,Laptop,Electronics,2,800,1600,Chennai,UPI
+ORD0380,15/03/2024,C234,Jeans,Apparel,5,45,225,Chennai,Debit Card
+ORD0895,29/01/2024,C234,Jeans,Apparel,5,45,225,Bangalore,Cash on Delivery
+ORD0226,10/3/2024,C235,Desk Lamp,Home,2,25,50,Mumbai,UPI
+ORD0692,30/04/2024,C235,Blender,Home,5,35,175,Bangalore,Credit Card
+ORD0248,19/01/2024,C236,Sneakers,Footwear,2,60,120,Mumbai,UPI
+ORD0281,25/03/2024,C236,Jeans,Apparel,1,45,45,Mumbai,Cash on Delivery
+ORD0385,15/04/2024,C236,Phone,Electronics,1,600,600,Mumbai,Debit Card
+ORD0806,21/02/2024,C236,Phone,Electronics,4,600,2400,Mumbai,Debit Card
+ORD0694,10/3/2024,C237,T-shirt,Apparel,4,20,80,Bangalore,Cash on Delivery
+ORD0742,20/01/2024,C237,Phone,Electronics,4,600,2400,Delhi,Credit Card
+ORD0065,4/1/2024,C238,Headphones,Electronics,3,50,150,Bangalore,UPI
+ORD0126,23/02/2024,C238,T-shirt,Apparel,3,20,60,Bangalore,Credit Card
+ORD0545,1/1/2024,C238,T-shirt,Apparel,2,20,40,Mumbai,UPI
+ORD0255,29/01/2024,C238,Sneakers,Footwear,3,60,180,Chennai,Credit Card
+ORD0496,18/02/2024,C238,T-shirt,Apparel,4,20,80,Chennai,Credit Card
+ORD0579,7/1/2024,C238,Sneakers,Footwear,3,60,180,Chennai,Cash on Delivery
+ORD0237,21/01/2024,C239,Jeans,Apparel,3,45,135,Bangalore,Credit Card
+ORD0241,6/1/2024,C239,Jeans,Apparel,1,45,45,Mumbai,UPI
+ORD0568,10/3/2024,C239,Coffee Mug,Home,4,10,40,Bangalore,Credit Card
+ORD0622,21/01/2024,C239,Sneakers,Footwear,5,60,300,Bangalore,Cash on Delivery
+ORD0373,5/4/2024,C239,Laptop,Electronics,1,800,800,Chennai,UPI
+ORD0382,11/3/2024,C239,Desk Lamp,Home,1,25,25,Chennai,Credit Card
+ORD0115,18/04/2024,C240,Laptop,Electronics,2,800,1600,Bangalore,Debit Card
+ORD0125,30/01/2024,C240,Sneakers,Footwear,4,60,240,Kolkata,Debit Card
+ORD0178,15/02/2024,C240,Desk Lamp,Home,3,25,75,Bangalore,Cash on Delivery
+ORD0417,26/01/2024,C240,Phone,Electronics,3,600,1800,Bangalore,Debit Card
+ORD0457,15/04/2024,C240,Phone,Electronics,5,600,3000,Mumbai,UPI
+ORD0493,6/2/2024,C240,Desk Lamp,Home,2,25,50,Mumbai,Cash on Delivery
+ORD0053,14/02/2024,C240,T-shirt,Apparel,4,20,80,Chennai,UPI
+ORD0019,3/1/2024,C241,T-shirt,Apparel,3,20,60,Bangalore,Credit Card
+ORD0110,26/02/2024,C241,Jeans,Apparel,3,45,135,Mumbai,Credit Card
+ORD0167,2/3/2024,C241,Jeans,Apparel,2,45,90,Bangalore,Debit Card
+ORD0617,15/01/2024,C241,Jeans,Apparel,2,45,90,Delhi,Cash on Delivery
+ORD0401,21/01/2024,C241,Jeans,Apparel,1,45,45,Chennai,Credit Card
+ORD0735,15/01/2024,C242,Sneakers,Footwear,2,60,120,Mumbai,UPI
+ORD0351,19/02/2024,C243,Laptop,Electronics,5,800,4000,Mumbai,Cash on Delivery
+ORD0552,5/1/2024,C243,Jeans,Apparel,4,45,180,Kolkata,Cash on Delivery
+ORD0603,20/03/2024,C243,Desk Lamp,Home,5,25,125,Chennai,Debit Card
+ORD0314,24/02/2024,C244,Phone,Electronics,3,600,1800,Mumbai,Debit Card
+ORD0479,14/03/2024,C244,Headphones,Electronics,5,50,250,Kolkata,Debit Card
+ORD0092,23/02/2024,C244,Headphones,Electronics,2,50,100,Chennai,Debit Card
+ORD0286,4/4/2024,C244,Headphones,Electronics,3,50,150,Chennai,Debit Card
+ORD0511,30/01/2024,C244,Blender,Home,4,35,140,Chennai,Credit Card
+ORD0904,24/01/2024,C244,Jeans,Apparel,2,45,90,Bangalore,Debit Card
+ORD0108,9/2/2024,C245,T-shirt,Apparel,2,20,40,Kolkata,Credit Card
+ORD0223,22/01/2024,C245,Jeans,Apparel,4,45,180,Kolkata,Debit Card
+ORD0644,9/3/2024,C245,T-shirt,Apparel,4,20,80,Mumbai,UPI
+ORD0968,6/1/2024,C245,Blender,Home,1,35,35,Chennai,Credit Card
+ORD0386,22/02/2024,C246,Jeans,Apparel,5,45,225,Kolkata,UPI
+ORD0611,23/01/2024,C246,Phone,Electronics,2,600,1200,Delhi,Debit Card
+ORD0676,25/02/2024,C246,Phone,Electronics,4,600,2400,Kolkata,Cash on Delivery
+ORD0004,21/02/2024,C247,Phone,Electronics,3,600,1800,Chennai,Credit Card
+ORD0790,4/3/2024,C247,Coffee Mug,Home,4,10,40,Delhi,Credit Card
+ORD0954,26/04/2024,C247,Phone,Electronics,1,600,600,Delhi,Cash on Delivery
+ORD0096,11/3/2024,C248,Coffee Mug,Home,2,10,20,Kolkata,Debit Card
+ORD0124,11/3/2024,C248,Desk Lamp,Home,4,25,100,Delhi,Cash on Delivery
+ORD0001,25/01/2024,C248,Desk Lamp,Home,2,25,50,Chennai,Cash on Delivery
+ORD0107,21/03/2024,C248,T-shirt,Apparel,5,20,100,Chennai,Debit Card
+ORD0059,16/03/2024,C249,Laptop,Electronics,5,800,4000,Kolkata,Debit Card
+ORD0533,26/02/2024,C249,Phone,Electronics,5,600,3000,Mumbai,UPI
+ORD0606,19/03/2024,C249,Phone,Electronics,2,600,1200,Kolkata,Credit Card
+ORD0799,6/1/2024,C249,Headphones,Electronics,4,50,200,Delhi,UPI
+ORD0550,21/01/2024,C250,Laptop,Electronics,3,800,2400,Bangalore,Cash on Delivery
+ORD0371,16/03/2024,C251,Sneakers,Footwear,5,60,300,Delhi,UPI
+ORD0551,12/3/2024,C251,Headphones,Electronics,5,50,250,Kolkata,Debit Card
+ORD0811,27/04/2024,C251,Phone,Electronics,2,600,1200,Mumbai,UPI
+ORD0820,3/2/2024,C251,T-shirt,Apparel,2,20,40,Bangalore,UPI
+ORD0592,17/03/2024,C252,Laptop,Electronics,2,800,1600,Mumbai,UPI
+ORD0657,12/3/2024,C252,Sneakers,Footwear,4,60,240,Bangalore,UPI
+ORD0843,22/01/2024,C252,Sneakers,Footwear,4,60,240,Chennai,Cash on Delivery
+ORD0208,12/2/2024,C253,Laptop,Electronics,1,800,800,Mumbai,Credit Card
+ORD0473,13/02/2024,C253,Phone,Electronics,3,600,1800,Delhi,Cash on Delivery
+ORD0947,9/1/2024,C253,Sneakers,Footwear,5,60,300,Kolkata,Credit Card
+ORD0032,5/2/2024,C254,Headphones,Electronics,3,50,150,Delhi,Cash on Delivery
+ORD0184,24/04/2024,C254,Phone,Electronics,1,600,600,Delhi,UPI
+ORD0517,6/4/2024,C254,Phone,Electronics,4,600,2400,Delhi,Credit Card
+ORD0078,13/02/2024,C255,Laptop,Electronics,5,800,4000,Delhi,Cash on Delivery
+ORD0462,25/01/2024,C255,Laptop,Electronics,3,800,2400,Mumbai,Cash on Delivery
+ORD0109,25/03/2024,C255,T-shirt,Apparel,1,20,20,Chennai,Credit Card
+ORD0295,13/03/2024,C255,Coffee Mug,Home,4,10,40,Chennai,Debit Card
+ORD0902,18/03/2024,C255,Laptop,Electronics,5,800,4000,Mumbai,Credit Card
+ORD0207,11/3/2024,C256,Jeans,Apparel,3,45,135,Mumbai,Credit Card
+ORD0333,22/03/2024,C256,Phone,Electronics,2,600,1200,Kolkata,Credit Card
+ORD0344,9/1/2024,C256,Jeans,Apparel,2,45,90,Bangalore,Cash on Delivery
+ORD0330,29/03/2024,C256,T-shirt,Apparel,5,20,100,Chennai,Credit Card
+ORD0859,27/02/2024,C256,T-shirt,Apparel,2,20,40,Chennai,Debit Card
+ORD0041,29/02/2024,C257,Headphones,Electronics,3,50,150,Mumbai,UPI
+ORD0279,10/1/2024,C257,Sneakers,Footwear,4,60,240,Kolkata,Cash on Delivery
+ORD0085,8/2/2024,C257,Phone,Electronics,3,600,1800,Chennai,UPI
+ORD0128,28/01/2024,C257,Sneakers,Footwear,5,60,300,Chennai,Credit Card
+ORD0013,10/4/2024,C258,Headphones,Electronics,3,50,150,Delhi,UPI
+ORD0384,30/03/2024,C258,Laptop,Electronics,4,800,3200,Chennai,UPI
+ORD0469,2/2/2024,C259,Headphones,Electronics,4,50,200,Kolkata,Cash on Delivery
+ORD0570,29/01/2024,C259,Laptop,Electronics,4,800,3200,Bangalore,Debit Card
+ORD0759,19/03/2024,C259,Sneakers,Footwear,2,60,120,Mumbai,UPI
+ORD0201,2/3/2024,C259,Phone,Electronics,3,600,1800,Chennai,Credit Card
+ORD0135,16/04/2024,C260,Laptop,Electronics,1,800,800,Delhi,Credit Card
+ORD0169,9/3/2024,C260,Headphones,Electronics,4,50,200,Delhi,UPI
+ORD0319,30/03/2024,C260,Phone,Electronics,1,600,600,Mumbai,UPI
+ORD0421,20/03/2024,C261,Jeans,Apparel,5,45,225,Chennai,Cash on Delivery
+ORD0522,24/04/2024,C261,Desk Lamp,Home,1,25,25,Chennai,UPI
+ORD0917,4/3/2024,C261,T-shirt,Apparel,3,20,60,Chennai,UPI
+ORD0403,28/02/2024,C262,Headphones,Electronics,4,50,200,Mumbai,Cash on Delivery
+ORD0780,28/04/2024,C262,Headphones,Electronics,2,50,100,Kolkata,Cash on Delivery
+ORD0458,26/02/2024,C262,Jeans,Apparel,1,45,45,Chennai,Credit Card
+ORD0852,30/04/2024,C262,Sneakers,Footwear,2,60,120,Bangalore,Cash on Delivery
+ORD0349,26/01/2024,C263,Sneakers,Footwear,5,60,300,Bangalore,Credit Card
+ORD0277,16/02/2024,C263,Laptop,Electronics,3,800,2400,Chennai,Credit Card
+ORD0890,13/01/2024,C263,Laptop,Electronics,2,800,1600,Delhi,UPI
+ORD0916,5/2/2024,C263,Laptop,Electronics,5,800,4000,Kolkata,Credit Card
+ORD0278,22/03/2024,C264,Coffee Mug,Home,5,10,50,Mumbai,Debit Card
+ORD0338,26/01/2024,C264,Phone,Electronics,3,600,1800,Delhi,UPI
+ORD0410,17/01/2024,C264,Sneakers,Footwear,1,60,60,Mumbai,Cash on Delivery
+ORD0758,31/01/2024,C264,Laptop,Electronics,4,800,3200,Mumbai,Credit Card
+ORD0936,6/1/2024,C264,Headphones,Electronics,3,50,150,Delhi,UPI
+ORD0021,14/01/2024,C266,Sneakers,Footwear,3,60,180,Mumbai,Cash on Delivery
+ORD0209,28/03/2024,C266,T-shirt,Apparel,1,20,20,Chennai,Debit Card
+ORD0196,12/2/2024,C267,Headphones,Electronics,2,50,100,Kolkata,Cash on Delivery
+ORD0206,1/2/2024,C267,Blender,Home,5,35,175,Kolkata,UPI
+ORD0148,23/03/2024,C267,Sneakers,Footwear,5,60,300,Chennai,Cash on Delivery
+ORD0022,7/4/2024,C268,Blender,Home,1,35,35,Kolkata,Debit Card
+ORD0773,25/01/2024,C268,Sneakers,Footwear,3,60,180,Kolkata,Credit Card
+ORD0749,12/2/2024,C268,Phone,Electronics,1,600,600,Chennai,Cash on Delivery
+ORD0930,7/3/2024,C268,Sneakers,Footwear,4,60,240,Chennai,UPI
+ORD0793,16/03/2024,C269,Coffee Mug,Home,5,10,50,Delhi,UPI
+ORD0865,7/3/2024,C269,Sneakers,Footwear,2,60,120,Kolkata,UPI
+ORD0185,15/03/2024,C269,Jeans,Apparel,2,45,90,Chennai,Debit Card
+ORD0993,19/01/2024,C269,Phone,Electronics,3,600,1800,Delhi,Cash on Delivery
+ORD0076,2/2/2024,C270,Sneakers,Footwear,1,60,60,Bangalore,Credit Card
+ORD0681,1/1/2024,C270,Phone,Electronics,5,600,3000,Delhi,Credit Card
+ORD0695,11/1/2024,C270,Blender,Home,1,35,35,Kolkata,Debit Card
+ORD0586,30/03/2024,C270,Jeans,Apparel,2,45,90,Chennai,Debit Card
+ORD0113,19/03/2024,C271,Sneakers,Footwear,5,60,300,Mumbai,UPI
+ORD0526,13/01/2024,C272,Coffee Mug,Home,4,10,40,Bangalore,Cash on Delivery
+ORD0849,26/02/2024,C272,Laptop,Electronics,2,800,1600,Delhi,Cash on Delivery
+ORD0583,15/01/2024,C272,Desk Lamp,Home,4,25,100,Chennai,Credit Card
+ORD0921,27/04/2024,C272,Laptop,Electronics,3,800,2400,Delhi,Cash on Delivery
+ORD0034,17/01/2024,C273,Laptop,Electronics,3,800,2400,Bangalore,Cash on Delivery
+ORD0260,19/02/2024,C273,Headphones,Electronics,5,50,250,Kolkata,Debit Card
+ORD0480,2/3/2024,C273,Jeans,Apparel,3,45,135,Kolkata,Cash on Delivery
+ORD0789,18/02/2024,C273,T-shirt,Apparel,2,20,40,Kolkata,Debit Card
+ORD0006,28/01/2024,C274,Sneakers,Footwear,4,60,240,Mumbai,Cash on Delivery
+ORD0850,25/03/2024,C274,Phone,Electronics,4,600,2400,Delhi,Cash on Delivery
+ORD0144,4/2/2024,C274,Headphones,Electronics,3,50,150,Chennai,Debit Card
+ORD0712,19/02/2024,C274,Desk Lamp,Home,4,25,100,Chennai,Credit Card
+ORD0130,21/02/2024,C275,Phone,Electronics,4,600,2400,Mumbai,Credit Card
+ORD0259,8/3/2024,C275,Sneakers,Footwear,4,60,240,Mumbai,Cash on Delivery
+ORD0507,12/1/2024,C275,Coffee Mug,Home,3,10,30,Mumbai,Cash on Delivery
+ORD0538,3/1/2024,C275,Phone,Electronics,2,600,1200,Kolkata,Debit Card
+ORD0756,28/04/2024,C275,Headphones,Electronics,4,50,200,Kolkata,Debit Card
+ORD0778,4/2/2024,C275,Laptop,Electronics,1,800,800,Kolkata,UPI
+ORD0824,6/4/2024,C275,Headphones,Electronics,4,50,200,Kolkata,Credit Card
+ORD0750,15/04/2024,C275,Jeans,Apparel,4,45,180,Chennai,Debit Card
+ORD0422,29/01/2024,C276,Blender,Home,1,35,35,Kolkata,Debit Card
+ORD0249,4/1/2024,C276,Desk Lamp,Home,2,25,50,Chennai,UPI
+ORD0989,31/01/2024,C276,T-shirt,Apparel,4,20,80,Kolkata,UPI
+ORD0244,12/4/2024,C277,Phone,Electronics,5,600,3000,Delhi,Debit Card
+ORD0133,5/2/2024,C277,Laptop,Electronics,2,800,1600,Chennai,Debit Card
+ORD0929,12/1/2024,C277,Laptop,Electronics,3,800,2400,Mumbai,Cash on Delivery
+ORD0071,9/4/2024,C278,Sneakers,Footwear,2,60,120,Bangalore,Cash on Delivery
+ORD0189,30/01/2024,C278,Headphones,Electronics,3,50,150,Delhi,Debit Card
+ORD0253,18/01/2024,C278,Blender,Home,4,35,140,Bangalore,Cash on Delivery
+ORD0629,23/03/2024,C278,Phone,Electronics,5,600,3000,Mumbai,Credit Card
+ORD0471,13/02/2024,C279,T-shirt,Apparel,4,20,80,Bangalore,UPI
+ORD0663,16/01/2024,C279,Coffee Mug,Home,3,10,30,Bangalore,Cash on Delivery
+ORD0934,27/03/2024,C279,Laptop,Electronics,1,800,800,Bangalore,Credit Card
+ORD0607,24/02/2024,C280,Headphones,Electronics,1,50,50,Kolkata,Debit Card
+ORD0297,3/2/2024,C281,Sneakers,Footwear,4,60,240,Kolkata,Debit Card
+ORD0485,23/02/2024,C281,Laptop,Electronics,4,800,3200,Mumbai,Credit Card
+ORD0863,28/03/2024,C281,Headphones,Electronics,5,50,250,Mumbai,UPI
+ORD0111,5/4/2024,C281,Headphones,Electronics,5,50,250,Chennai,UPI
+ORD0476,5/2/2024,C281,Jeans,Apparel,5,45,225,Chennai,Cash on Delivery
+ORD0005,24/03/2024,C282,Blender,Home,5,35,175,Mumbai,Debit Card
+ORD0046,9/4/2024,C282,Headphones,Electronics,1,50,50,Mumbai,UPI
+ORD0520,22/03/2024,C282,Coffee Mug,Home,1,10,10,Delhi,UPI
+ORD0720,24/01/2024,C282,Blender,Home,3,35,105,Bangalore,Cash on Delivery
+ORD0973,23/02/2024,C282,Jeans,Apparel,2,45,90,Delhi,UPI
+ORD0350,18/03/2024,C283,Blender,Home,3,35,105,Kolkata,UPI
+ORD0486,29/03/2024,C283,Laptop,Electronics,3,800,2400,Mumbai,UPI
+ORD0716,8/2/2024,C283,T-shirt,Apparel,5,20,100,Kolkata,UPI
+ORD0974,17/03/2024,C283,Jeans,Apparel,4,45,180,Mumbai,Debit Card
+ORD0901,10/3/2024,C284,Desk Lamp,Home,1,25,25,Kolkata,Debit Card
+ORD0972,5/3/2024,C284,Headphones,Electronics,4,50,200,Chennai,Credit Card
+ORD0356,30/03/2024,C285,Headphones,Electronics,2,50,100,Delhi,Debit Card
+ORD0648,6/1/2024,C285,Laptop,Electronics,4,800,3200,Bangalore,Cash on Delivery
+ORD0828,22/02/2024,C285,Jeans,Apparel,1,45,45,Bangalore,Credit Card
+ORD0229,13/03/2024,C285,Laptop,Electronics,1,800,800,Chennai,Debit Card
+ORD0137,22/01/2024,C286,Phone,Electronics,2,600,1200,Mumbai,UPI
+ORD0862,3/3/2024,C286,Phone,Electronics,5,600,3000,Mumbai,Credit Card
+ORD0805,25/02/2024,C286,Jeans,Apparel,4,45,180,Chennai,Cash on Delivery
+ORD0896,16/02/2024,C286,Coffee Mug,Home,4,10,40,Chennai,Debit Card
+ORD0265,12/1/2024,C287,Headphones,Electronics,1,50,50,Kolkata,Debit Card
+ORD0643,10/2/2024,C287,Sneakers,Footwear,1,60,60,Delhi,UPI
+ORD0313,6/4/2024,C288,Jeans,Apparel,2,45,90,Kolkata,Debit Card
+ORD0439,24/02/2024,C288,T-shirt,Apparel,5,20,100,Kolkata,Credit Card
+ORD0310,17/02/2024,C288,Blender,Home,5,35,175,Chennai,Debit Card
+ORD0477,24/04/2024,C288,Blender,Home,4,35,140,Chennai,Debit Card
+ORD0024,20/02/2024,C289,Sneakers,Footwear,1,60,60,Kolkata,UPI
+ORD0733,1/4/2024,C289,Headphones,Electronics,5,50,250,Delhi,Debit Card
+ORD0028,23/04/2024,C290,Phone,Electronics,2,600,1200,Kolkata,Debit Card
+ORD0505,10/2/2024,C290,Laptop,Electronics,1,800,800,Bangalore,UPI
+ORD0791,10/2/2024,C290,Phone,Electronics,1,600,600,Chennai,Debit Card
+ORD0234,5/1/2024,C291,Desk Lamp,Home,4,25,100,Mumbai,Cash on Delivery
+ORD0500,4/2/2024,C291,Sneakers,Footwear,4,60,240,Mumbai,Debit Card
+ORD0994,6/3/2024,C291,Phone,Electronics,1,600,600,Mumbai,UPI
+ORD0242,20/01/2024,C292,Laptop,Electronics,4,800,3200,Kolkata,Credit Card
+ORD0334,1/3/2024,C292,Headphones,Electronics,5,50,250,Kolkata,UPI
+ORD0532,28/02/2024,C292,Jeans,Apparel,4,45,180,Kolkata,Cash on Delivery
+ORD0661,6/4/2024,C292,Phone,Electronics,1,600,600,Bangalore,Credit Card
+ORD0352,11/2/2024,C292,Desk Lamp,Home,1,25,25,Chennai,Debit Card
+ORD0164,20/01/2024,C293,Phone,Electronics,1,600,600,Mumbai,Debit Card
+ORD0198,23/02/2024,C293,Desk Lamp,Home,2,25,50,Delhi,Cash on Delivery
+ORD0555,29/02/2024,C293,Sneakers,Footwear,5,60,300,Chennai,Debit Card
+ORD0212,28/02/2024,C294,Phone,Electronics,5,600,3000,Delhi,Credit Card
+ORD0213,1/4/2024,C296,Phone,Electronics,3,600,1800,Mumbai,UPI
+ORD0576,3/3/2024,C296,Phone,Electronics,2,600,1200,Delhi,Cash on Delivery
+ORD0701,11/4/2024,C296,Jeans,Apparel,4,45,180,Mumbai,Credit Card
+ORD0082,24/04/2024,C297,Jeans,Apparel,1,45,45,Delhi,UPI
+ORD0577,31/03/2024,C297,Headphones,Electronics,1,50,50,Delhi,Cash on Delivery
+ORD0518,26/03/2024,C297,Laptop,Electronics,1,800,800,Chennai,UPI
+ORD0729,13/02/2024,C297,Jeans,Apparel,5,45,225,Chennai,Debit Card
+ORD0483,13/03/2024,C298,Coffee Mug,Home,4,10,40,Kolkata,Debit Card
+ORD0992,25/02/2024,C298,Phone,Electronics,5,600,3000,Kolkata,Cash on Delivery
+ORD0996,24/04/2024,C298,Jeans,Apparel,2,45,90,Kolkata,UPI
+ORD0848,1/3/2024,C298,Laptop,Electronics,1,800,800,Chennai,Debit Card
+ORD0913,29/02/2024,C298,Desk Lamp,Home,5,25,125,Chennai,Credit Card
+ORD0008,4/4/2024,C299,Sneakers,Footwear,1,60,60,Mumbai,Debit Card
+ORD0149,3/2/2024,C299,Blender,Home,5,35,175,Kolkata,Debit Card
+ORD0623,12/3/2024,C299,Coffee Mug,Home,3,10,30,Kolkata,Debit Card
+ORD0040,11/4/2024,C300,Sneakers,Footwear,2,60,120,Kolkata,Debit Card
+ORD0112,20/04/2024,C300,Phone,Electronics,2,600,1200,Kolkata,Debit Card
+ORD0864,24/04/2024,C300,Sneakers,Footwear,2,60,120,Delhi,Debit Card
